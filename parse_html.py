@@ -12,7 +12,7 @@ def get_soup(file_path):
         soup = BeautifulSoup(file, "html.parser")
         return soup
 
-def parse_html(file_path, sys_name, user_name, window_size=5, max_overlap=2):
+def parse_html_sliding_window(file_path, sys_name, user_name, window_size=8, max_overlap=4):
     data = []
     curr = 0
     end = curr + window_size
@@ -38,27 +38,67 @@ def parse_html(file_path, sys_name, user_name, window_size=5, max_overlap=2):
         text = tags[curr].find_all("span", class_="transspan")
         text = "".join([re.sub('(\u00a0|\n)\s*', ' ', t.text) for t in text[1:]]).strip()
 
-        # Append Conversation
-        conversations.append({
-            "from": "gpt" if speaker == sys_name else "human",
-            "value": text
-        })
+        actor = "gpt" if speaker == sys_name else "human"
 
+        # Append Conversation
+        if conversations != [] and actor == conversations[-1]["from"]:
+            conversations[-1]["value"] += " " + text
+            end += 1
+        else:
+            conversations.append({
+                "from": actor,
+                "value": text
+            })
+
+        curr += 1
         # Append to data if window is reached
         if curr == end:
             data.append({
                 "id": len(data),
                 "conversations": conversations
             })
+            print(len(data))
             conversations = []
             curr = end - max_overlap
             end = curr + window_size
-        else:
-            curr += 1
+ 
     return data
 
+def parse_html_sequential(file_path, sys_name, user_name, window_size=8, max_overlap=4):
+    curr = 0
+    soup = get_soup(file_path)
+    tags = soup.select("p.transp")
+    conversations = []
+    while curr < len(tags):
+        # Get speaker
+        speaker = tags[curr].find("span", class_="speaker")
+        if speaker == None:
+            curr += 1
+            continue
+        speaker = speaker.text.strip()
+
+        # Get text
+        text = tags[curr].find_all("span", class_="transspan")
+        text = "".join([re.sub('(\u00a0|\n)\s*', ' ', t.text) for t in text[1:]]).strip()
+
+        actor = "gpt" if speaker == sys_name else "human"
+
+        # Append Conversation
+        if conversations != [] and actor == conversations[-1]["from"]:
+            conversations[-1]["value"] += " " + text
+        else:
+            conversations.append({
+                "from": actor,
+                "value": text
+            })
+
+        curr += 1
+ 
+    return conversations
+
+
 if __name__ == "__main__":
-    dataset = parse_html(FILE_PATH, SYS_NAME, USER_NAME)
+    dataset = parse_html_sequential(FILE_PATH, SYS_NAME, USER_NAME)
     pprint(dataset)
-    with open("transcript_json/0.json", "w") as file:
+    with open("transcript_json/sequential.json", "w") as file:
         json.dump(dataset, file, indent=4)

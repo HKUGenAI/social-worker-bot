@@ -25,6 +25,14 @@
             {
                 "from": "gpt",
                 "value": "To slow it down, okay."
+            },
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "And so, you know, you're, you're here because you're kind of worried about all this, this drug use. And I know that you've said that you've, you've tried before and you've had lots of goes at trying to stop and you just find it really, really difficult."
             }
         ]
     },
@@ -54,6 +62,14 @@
             {
                 "from": "gpt",
                 "value": "And so, then."
+            },
+            {
+                "from": "human",
+                "value": "I mean, I've been, I've been to, to, I've been to rehabs and I've been to, I've even stayed home and tried to sort of just locked myself in the house and, and detox. And I've gone to, you know, I mean, you know, no offense but, you know, I've gone to lots of counselors in the past and it just hasn't."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah."
             }
         ]
     },
@@ -83,6 +99,14 @@
             {
                 "from": "gpt",
                 "value": "So you're feeling really desparate."
+            },
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "But kind of like, it hasn't worked before so you're, you're, you're kind of uh, is this gonna work."
             }
         ]
     },
@@ -112,6 +136,14 @@
             {
                 "from": "gpt",
                 "value": "Okay."
+            },
+            {
+                "from": "human",
+                "value": "Yeah, maybe it's just me. Yeah, I think there's a part of me that just says I'm useless. I can't do it. I'm, I'm maybe I'm just uh, maybe it's just uh."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay, so you start to, to think that it's sort of you."
             }
         ]
     },
@@ -141,6 +173,14 @@
             {
                 "from": "gpt",
                 "value": "Okay. You know, when, when people use drugs like that and had lots of goes at trying to stop. And you mentioned a couple of things about, you know, you know, sort of like using them because, you know, that, that sort of coping I guess."
+            },
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Um, I mean it sounds to me as if the drugs are probably doing a lot of things for you. A lot of really kind of important things for you and that's why, why it's so hard to stop."
             }
         ]
     },
@@ -170,19 +210,6 @@
             {
                 "from": "gpt",
                 "value": "Well, I'm just wondering if you could have a think about, you know, what is it that keeps you using. What do the drugs do for you? How do they help."
-            }
-        ]
-    },
-    {
-        "id": 6,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "What do you, what do you?"
-            },
-            {
-                "from": "gpt",
-                "value": "Well, I'm just wondering if you could have a think about, you know, what is it that keeps you using. What do the drugs do for you? How do they help."
             },
             {
                 "from": "human",
@@ -191,20 +218,20 @@
             {
                 "from": "gpt",
                 "value": "All right."
-            },
-            {
-                "from": "human",
-                "value": "Um, every time I've tried to stop, it just, I feel like I'm going to have a break down. Like it's, well I have, I have had like nervous breakdowns. I can't breathe. And I think um, someone keep saying to me, it's you know, they were saying to me before it was panic, or like panic attack."
-            },
-            {
-                "from": "gpt",
-                "value": "So, so, what happens you feel like can't breathe?"
             }
         ]
     },
     {
-        "id": 7,
+        "id": 6,
         "conversations": [
+            {
+                "from": "human",
+                "value": "I just, I can't, I just can't function without out them, like."
+            },
+            {
+                "from": "gpt",
+                "value": "All right."
+            },
             {
                 "from": "human",
                 "value": "Um, every time I've tried to stop, it just, I feel like I'm going to have a break down. Like it's, well I have, I have had like nervous breakdowns. I can't breathe. And I think um, someone keep saying to me, it's you know, they were saying to me before it was panic, or like panic attack."
@@ -232,8 +259,16 @@
         ]
     },
     {
-        "id": 8,
+        "id": 7,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "What else happens?"
+            },
             {
                 "from": "human",
                 "value": "I feel like I'm going to die. I've tried then, you know, to go to the doctors. And sort of, they say we're just going to give you some benzos, but it just doesn't, it just doesn't do it, just doesn't do it."
@@ -261,8 +296,16 @@
         ]
     },
     {
-        "id": 9,
+        "id": 8,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah."
+            },
             {
                 "from": "human",
                 "value": "Right, everything's just coming in on me. I can't think clearly."
@@ -290,8 +333,16 @@
         ]
     },
     {
-        "id": 10,
+        "id": 9,
         "conversations": [
+            {
+                "from": "human",
+                "value": "And um, yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "Right."
+            },
             {
                 "from": "human",
                 "value": "It's, it's just really hard to explain but it's like I said, it's like a nervous breakdown."
@@ -319,8 +370,16 @@
         ]
     },
     {
-        "id": 11,
+        "id": 10,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yep."
+            },
+            {
+                "from": "gpt",
+                "value": "And does that apply to, to all the different drugs or is it, do the different drugs kind of do different things?"
+            },
             {
                 "from": "human",
                 "value": "Um, well, the speed, you know, I try as much as possible not to use speed because you know, that's, that's sort of more difficult to get and it's a bit more expensive. And when I haven't got any money, what I have to do to get it, everything's just, so that's really hard. But there're time when I just can't drag myself out of bed."
@@ -348,8 +407,16 @@
         ]
     },
     {
-        "id": 12,
+        "id": 11,
         "conversations": [
+            {
+                "from": "human",
+                "value": "And that, that gives me the energy to be out. And there's times when I'm like, I just, I can't be around people."
+            },
+            {
+                "from": "gpt",
+                "value": "Mm-hmm."
+            },
             {
                 "from": "human",
                 "value": "Like I just find it hard to be around people but if I got speed then I, I can."
@@ -377,8 +444,16 @@
         ]
     },
     {
-        "id": 13,
+        "id": 12,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "And you've also, and the other drug, the um, the pills, and the pot and the alcohol."
+            },
             {
                 "from": "human",
                 "value": "Well, I have pot every night to hel p me go to sleep."
@@ -406,8 +481,16 @@
         ]
     },
     {
-        "id": 14,
+        "id": 13,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Um, and then the pills, often there's nights I can't sleep and the pots not enough because my head's just spinning. Particular if I've had an argument with my boyfriend or something's going on at work, or someone's let you down again. And you just need some sleep and, and so I take the pills then."
+            },
+            {
+                "from": "gpt",
+                "value": "Sure."
+            },
             {
                 "from": "human",
                 "value": "Um, and yeah, that, that's, that just helps me to just block out."
@@ -435,8 +518,16 @@
         ]
     },
     {
-        "id": 15,
+        "id": 14,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay."
+            },
             {
                 "from": "human",
                 "value": "Stop all that."
@@ -464,8 +555,16 @@
         ]
     },
     {
-        "id": 16,
+        "id": 15,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Stop all the noise in my head."
+            },
+            {
+                "from": "gpt",
+                "value": "Stop all the noise in your head."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -493,7 +592,7 @@
         ]
     },
     {
-        "id": 17,
+        "id": 16,
         "conversations": [
             {
                 "from": "human",
@@ -518,11 +617,19 @@
             {
                 "from": "gpt",
                 "value": "You'll use instead. So, it helps you not to."
+            },
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "Not to sort of hurt yourself and to kind of."
             }
         ]
     },
     {
-        "id": 18,
+        "id": 17,
         "conversations": [
             {
                 "from": "human",
@@ -547,11 +654,19 @@
             {
                 "from": "gpt",
                 "value": "And, and is that all. And is the cutting and the burning it sounds like that's also about just coping emotionally and."
+            },
+            {
+                "from": "human",
+                "value": "Yeah, I know it sounds really, really weird but from a really. I've always, like I, I do much less now. I did it lots."
+            },
+            {
+                "from": "gpt",
+                "value": "It's okay."
             }
         ]
     },
     {
-        "id": 19,
+        "id": 18,
         "conversations": [
             {
                 "from": "human",
@@ -576,11 +691,19 @@
             {
                 "from": "gpt",
                 "value": "How bad it is."
+            },
+            {
+                "from": "human",
+                "value": "I don't understand it but that sometimes I end up doing that more."
+            },
+            {
+                "from": "gpt",
+                "value": "Sure."
             }
         ]
     },
     {
-        "id": 20,
+        "id": 19,
         "conversations": [
             {
                 "from": "human",
@@ -605,11 +728,19 @@
             {
                 "from": "gpt",
                 "value": "Mmm, so it sounds like, it sounds like they're both ways."
+            },
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Of managing your emotions and making yourself feel less or fell better."
             }
         ]
     },
     {
-        "id": 21,
+        "id": 20,
         "conversations": [
             {
                 "from": "human",
@@ -634,11 +765,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah. Cope and I know that you say it sounds weird and that you feel kind of um, you know, uncomfortable about telling me about it."
+            },
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "But it's actually a, a common thing that people do when they, when they've got really intense emotions. And they've had um, you know, some horrible things happen to them. It's, it's sort of a way of coping. So people do that."
             }
         ]
     },
     {
-        "id": 22,
+        "id": 21,
         "conversations": [
             {
                 "from": "human",
@@ -663,11 +802,19 @@
             {
                 "from": "gpt",
                 "value": "And so, I mean, I think it's, it's in some ways similar to the drug use in that you're using it for pretty similar reasons. Does it feel like that to you?"
+            },
+            {
+                "from": "human",
+                "value": "Um, it yeah. It does. It feels like I got to do either one or the other."
+            },
+            {
+                "from": "gpt",
+                "value": "The other. Sure."
             }
         ]
     },
     {
-        "id": 23,
+        "id": 22,
         "conversations": [
             {
                 "from": "human",
@@ -692,11 +839,19 @@
             {
                 "from": "gpt",
                 "value": "And you know later on, as we continue counseling we'll look at some other ways in which you can manage your emotions. So that it will be easier for you not to do those things."
+            },
+            {
+                "from": "human",
+                "value": "Okay."
+            },
+            {
+                "from": "gpt",
+                "value": "And but we'll do that later on."
             }
         ]
     },
     {
-        "id": 24,
+        "id": 23,
         "conversations": [
             {
                 "from": "human",
@@ -721,11 +876,19 @@
             {
                 "from": "gpt",
                 "value": "With nothing."
+            },
+            {
+                "from": "human",
+                "value": "Nothing, I don't know what to do."
+            },
+            {
+                "from": "gpt",
+                "value": "And it's so important that you have other ways of managing and that's going to be a really important part of our counseling. Helping you to manage in other ways. I mean it makes complete sense that you really struggle to stop, to stop using and to stop, you know, hurting yourself if you haven't been able to find other ways to manage. And so that is going to be something very important that we do."
             }
         ]
     },
     {
-        "id": 25,
+        "id": 24,
         "conversations": [
             {
                 "from": "human",
@@ -750,11 +913,19 @@
             {
                 "from": "gpt",
                 "value": "As we go along."
+            },
+            {
+                "from": "human",
+                "value": "Yeah. Because otherwise you just feel useless. You feel like you failed again."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah."
             }
         ]
     },
     {
-        "id": 26,
+        "id": 25,
         "conversations": [
             {
                 "from": "human",
@@ -779,11 +950,19 @@
             {
                 "from": "gpt",
                 "value": "But I guess it's also, it's also important for you to, to, you know, think about what you just told me now. That drug use has been doing some very, very important things for you. And um, and so, you know, it's not, it's not that easy for you to stop. And you're doing other things. Okay. Now, is it okay, if we just move on now and look at the other side of it. We've looked at the, the things that it does for you, the good things."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "What's the, you know, the sort of the down side of it? What are the difficulties."
             }
         ]
     },
     {
-        "id": 27,
+        "id": 26,
         "conversations": [
             {
                 "from": "human",
@@ -808,11 +987,19 @@
             {
                 "from": "gpt",
                 "value": "You're really tired of it. And you look really distressed as you say that."
+            },
+            {
+                "from": "human",
+                "value": "Yeah, I just can't."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah."
             }
         ]
     },
     {
-        "id": 28,
+        "id": 27,
         "conversations": [
             {
                 "from": "human",
@@ -837,11 +1024,19 @@
             {
                 "from": "gpt",
                 "value": "Okay. So it'[s00:10:20] really, really worrying you."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "It's um, it's always in your head. And you're always worrying where can you get the money from."
             }
         ]
     },
     {
-        "id": 29,
+        "id": 28,
         "conversations": [
             {
                 "from": "human",
@@ -866,11 +1061,19 @@
             {
                 "from": "gpt",
                 "value": "And you don't like the things that you're doing to get the money and you feel like a bad person."
+            },
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "And that just feels so distressing for you."
             }
         ]
     },
     {
-        "id": 30,
+        "id": 29,
         "conversations": [
             {
                 "from": "human",
@@ -895,11 +1098,19 @@
             {
                 "from": "gpt",
                 "value": "Did you want to say anything more about any of that now, or is that kind of enough for now."
+            },
+            {
+                "from": "human",
+                "value": "It's probably, yeah, too."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah, Okay."
             }
         ]
     },
     {
-        "id": 31,
+        "id": 30,
         "conversations": [
             {
                 "from": "human",
@@ -924,11 +1135,19 @@
             {
                 "from": "gpt",
                 "value": "Hard."
+            },
+            {
+                "from": "human",
+                "value": "It's too hard. I just feel under, it's just so hard. And I fell so ashame, I'm so ashamed. I'm really ashamed of it."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay. So really hard to talk about too. And you're really worried that if, about what's going on. And if you do keep using, what are you concerned about, the future as well? Is it not just the present."
             }
         ]
     },
     {
-        "id": 32,
+        "id": 31,
         "conversations": [
             {
                 "from": "human",
@@ -953,11 +1172,19 @@
             {
                 "from": "gpt",
                 "value": "You don't want to go on."
+            },
+            {
+                "from": "human",
+                "value": "You know, like all the time, when I'm working and I look at all these really normal people and they come in and, you know, you see their families and you see their kids. And I just feel like."
+            },
+            {
+                "from": "gpt",
+                "value": "You want what they got. Yeah. Okay. And you see the drug use as not allowing you to have that?"
             }
         ]
     },
     {
-        "id": 33,
+        "id": 32,
         "conversations": [
             {
                 "from": "human",
@@ -982,11 +1209,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah."
+            },
+            {
+                "from": "human",
+                "value": "Loose my jobs and um, I've got no one to support me. Your friends let you down."
+            },
+            {
+                "from": "gpt",
+                "value": "Sure. Okay. So, Julia, I mean things that like the drug use does a lot of real important things for you. You've talked about them. It calms you down, it helps you to not have panic attacks, it helps you feel as though you're not having a break down. It helps you to not cut and burn yourself and it can also help you to kind of get going when you need to do something and you're feeling really, really sort of not really good and it can give you energy. And then the other side of it is that it's really distressing you."
             }
         ]
     },
     {
-        "id": 34,
+        "id": 33,
         "conversations": [
             {
                 "from": "human",
@@ -1011,19 +1246,6 @@
             {
                 "from": "gpt",
                 "value": "And what's happening because it weighs on you mind and, and you know, you always have to find the money and you've got to do things to find the money. And it stops you from having."
-            }
-        ]
-    },
-    {
-        "id": 35,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "Hmm."
-            },
-            {
-                "from": "gpt",
-                "value": "And what's happening because it weighs on you mind and, and you know, you always have to find the money and you've got to do things to find the money. And it stops you from having."
             },
             {
                 "from": "human",
@@ -1032,20 +1254,20 @@
             {
                 "from": "gpt",
                 "value": "And it makes you feel useless and it stops you from having a life you need."
-            },
-            {
-                "from": "human",
-                "value": "Yeah."
-            },
-            {
-                "from": "gpt",
-                "value": "And so, so, I mean it, the drug use is kind of important to you at the moment. But also all the difficulties are important to you."
             }
         ]
     },
     {
-        "id": 36,
+        "id": 34,
         "conversations": [
+            {
+                "from": "human",
+                "value": "I feel useless."
+            },
+            {
+                "from": "gpt",
+                "value": "And it makes you feel useless and it stops you from having a life you need."
+            },
             {
                 "from": "human",
                 "value": "Yeah."
@@ -1073,8 +1295,16 @@
         ]
     },
     {
-        "id": 37,
+        "id": 35,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And from what you're saying it's sounds like you're really, really desparate to, to really try and kind of."
+            },
             {
                 "from": "human",
                 "value": "Yeah, I really, really want to try."
@@ -1102,8 +1332,16 @@
         ]
     },
     {
-        "id": 38,
+        "id": 36,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yep."
+            },
+            {
+                "from": "gpt",
+                "value": "I see."
+            },
             {
                 "from": "human",
                 "value": "'Cuz I'm losing, I'm losing a lot of hope."
@@ -1131,8 +1369,16 @@
         ]
     },
     {
-        "id": 39,
+        "id": 37,
         "conversations": [
+            {
+                "from": "human",
+                "value": "That it's gonna be any different. I don't want live life."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay."
+            },
             {
                 "from": "human",
                 "value": "It's not worth living. So I'm really, really."
@@ -1160,8 +1406,16 @@
         ]
     },
     {
-        "id": 40,
+        "id": 38,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "To, to kind of like be able to change your drug use."
+            },
             {
                 "from": "human",
                 "value": "Yeah."
@@ -1189,8 +1443,16 @@
         ]
     },
     {
-        "id": 41,
+        "id": 39,
         "conversations": [
+            {
+                "from": "human",
+                "value": "No, no. As I said, I've tried so many times and it just hasn't hasn't worked. Hasn't worked, so you know, I'm not really that."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay."
+            },
             {
                 "from": "human",
                 "value": "I'm not, I'm not really convinced that I can do it."
@@ -1218,8 +1480,16 @@
         ]
     },
     {
-        "id": 42,
+        "id": 40,
         "conversations": [
+            {
+                "from": "human",
+                "value": "I mean I'm pretty, you know, I haven't really succeeded in anything. So, you know, thinking I'm gonna be able to do this is."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay, so you're pretty."
+            },
             {
                 "from": "human",
                 "value": "Is pretty, pretty."
@@ -1247,7 +1517,7 @@
         ]
     },
     {
-        "id": 43,
+        "id": 41,
         "conversations": [
             {
                 "from": "human",
@@ -1272,11 +1542,19 @@
             {
                 "from": "gpt",
                 "value": "You don't really know what that means. Okay. Ways to manage kind of how you're feeling. Sometimes it might just be a physical feeling."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Sometimes it might be, you know, feeling angry. Do you ever feel angry?"
             }
         ]
     },
     {
-        "id": 44,
+        "id": 42,
         "conversations": [
             {
                 "from": "human",
@@ -1301,11 +1579,19 @@
             {
                 "from": "gpt",
                 "value": "So that's an emotion."
+            },
+            {
+                "from": "human",
+                "value": "Okay."
+            },
+            {
+                "from": "gpt",
+                "value": "And sometimes it might be feeling just really stressed out."
             }
         ]
     },
     {
-        "id": 45,
+        "id": 43,
         "conversations": [
             {
                 "from": "human",
@@ -1330,11 +1616,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah."
+            },
+            {
+                "from": "human",
+                "value": "Yep."
+            },
+            {
+                "from": "gpt",
+                "value": "And sometimes it might be feeling overwhelmed."
             }
         ]
     },
     {
-        "id": 46,
+        "id": 44,
         "conversations": [
             {
                 "from": "human",
@@ -1359,11 +1653,19 @@
             {
                 "from": "gpt",
                 "value": "So all those sorts of things they were all emotions. And so, they were all feelings."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And so, what, what I'd like to do is just explore with you as we go along, just various different ways in which you can uh, manage your emotions. So we might do, we'll do some little exercises around breathing and um, being aware of what's going on in your emotions and around being in the present. All sorts of things like that. Does that sound okay, for you? To give those things a go. We'll do them one at a time and."
             }
         ]
     },
     {
-        "id": 47,
+        "id": 45,
         "conversations": [
             {
                 "from": "human",
@@ -1388,11 +1690,19 @@
             {
                 "from": "gpt",
                 "value": "I'll explain them."
+            },
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "But does it sound like something that, that, that might be something you'd be prepared to try?"
             }
         ]
     },
     {
-        "id": 48,
+        "id": 46,
         "conversations": [
             {
                 "from": "human",
@@ -1417,19 +1727,6 @@
             {
                 "from": "gpt",
                 "value": "Okay. That'll be part of what we're doing. We'll be doing other things too of course. Looking at what's going on in your life and, and you know, other things that you, other ways to cope with them. But this, this sort of emotions, feelings side of things they help you get some more control over that. Might be really helpful for you."
-            }
-        ]
-    },
-    {
-        "id": 49,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "Yeah. I'll, I'll definitely give it a go."
-            },
-            {
-                "from": "gpt",
-                "value": "Okay. That'll be part of what we're doing. We'll be doing other things too of course. Looking at what's going on in your life and, and you know, other things that you, other ways to cope with them. But this, this sort of emotions, feelings side of things they help you get some more control over that. Might be really helpful for you."
             },
             {
                 "from": "human",
@@ -1438,19 +1735,11 @@
             {
                 "from": "gpt",
                 "value": "Julia, we talked a fair bit about what's going for you at the moment about your drug use and your boyfriend, and um, how desparate you're feeling and all the rest of it. Now, what I'd like to do to get some understanding how all this came to be, is get a sense of how it fits into your life. And so as part of that I'd like to get a sense of kind of what, you know, what growing up was like for you."
-            },
-            {
-                "from": "human",
-                "value": "Ugg."
-            },
-            {
-                "from": "gpt",
-                "value": "What you're family was like?"
             }
         ]
     },
     {
-        "id": 50,
+        "id": 47,
         "conversations": [
             {
                 "from": "human",
@@ -1475,11 +1764,19 @@
             {
                 "from": "gpt",
                 "value": "It's looking pretty difficult for you."
+            },
+            {
+                "from": "human",
+                "value": "Uh, where do I start."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah."
             }
         ]
     },
     {
-        "id": 51,
+        "id": 48,
         "conversations": [
             {
                 "from": "human",
@@ -1504,11 +1801,19 @@
             {
                 "from": "gpt",
                 "value": "Mm-hmm. Can you tell me a little bit more about that?"
+            },
+            {
+                "from": "human",
+                "value": "Um, well, she still is pretty hopeless. Um, huh, I've tried so many times to cut her out of my life and somehow I end up going back. But, um, she's, she's an alcoholic."
+            },
+            {
+                "from": "gpt",
+                "value": "Mmm."
             }
         ]
     },
     {
-        "id": 52,
+        "id": 49,
         "conversations": [
             {
                 "from": "human",
@@ -1533,11 +1838,19 @@
             {
                 "from": "gpt",
                 "value": "So this was when you were little she was always drunk?"
+            },
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay."
             }
         ]
     },
     {
-        "id": 53,
+        "id": 50,
         "conversations": [
             {
                 "from": "human",
@@ -1562,11 +1875,19 @@
             {
                 "from": "gpt",
                 "value": "Mmm. And so that was pretty difficult for you? And what, what was she like when she was drunk?"
+            },
+            {
+                "from": "human",
+                "value": "Ah."
+            },
+            {
+                "from": "gpt",
+                "value": "A nice drunk or is she just passed out or she'd get angry?"
             }
         ]
     },
     {
-        "id": 54,
+        "id": 51,
         "conversations": [
             {
                 "from": "human",
@@ -1591,11 +1912,19 @@
             {
                 "from": "gpt",
                 "value": "Okay."
+            },
+            {
+                "from": "human",
+                "value": "And I could never do anything to make her happy."
+            },
+            {
+                "from": "gpt",
+                "value": "So, so you used to try and try and nothing worked."
             }
         ]
     },
     {
-        "id": 55,
+        "id": 52,
         "conversations": [
             {
                 "from": "human",
@@ -1620,11 +1949,19 @@
             {
                 "from": "gpt",
                 "value": "It still doesn't work. And that's just so distressing for you isn't it? And so it was like this all your life from when you were very little?"
+            },
+            {
+                "from": "human",
+                "value": "As long as I can remember."
+            },
+            {
+                "from": "gpt",
+                "value": "As long as you can remember. And so, and so Mum was often drunk and she wasn't sort of there for you because she was drunk. And where."
             }
         ]
     },
     {
-        "id": 56,
+        "id": 53,
         "conversations": [
             {
                 "from": "human",
@@ -1649,11 +1986,19 @@
             {
                 "from": "gpt",
                 "value": "Okay."
+            },
+            {
+                "from": "human",
+                "value": "So, yeah. I'd get myself up and go to school and then I'd, you know, at school I'd have to try an put on the happy face because I didn't, you know, it was really embarrassing. So I didn't want the other kids to know and I could never have kids coming over or stay. I was never allowed to go and stay at other people's places. So, I was just never, yeah, I couldn't wait, I couldn't wait. And then when I was about, uh, I think about 14 or 15 I just, I just got out of there, I just. I couldn't."
+            },
+            {
+                "from": "gpt",
+                "value": "So you, so things were that bad that you just got out when you were that young."
             }
         ]
     },
     {
-        "id": 57,
+        "id": 54,
         "conversations": [
             {
                 "from": "human",
@@ -1678,11 +2023,19 @@
             {
                 "from": "gpt",
                 "value": "Okay."
+            },
+            {
+                "from": "human",
+                "value": "Would come and, and that was just like a, you know, that was awful, like they'd take me away and I'd have to go and live in, you know, um, um, total strangers. Don't start me about foster care."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay, you sound pretty angry about the foster care, pretty distressed."
             }
         ]
     },
     {
-        "id": 58,
+        "id": 55,
         "conversations": [
             {
                 "from": "human",
@@ -1707,11 +2060,19 @@
             {
                 "from": "gpt",
                 "value": "Okay, then at home."
+            },
+            {
+                "from": "human",
+                "value": "Then at home. At least with Mum I knew her, but you know, those people were meant to be so-called to be looking after me. A load of crap."
+            },
+            {
+                "from": "gpt",
+                "value": "So, Julia the foster care sounds like it was really, really difficult. And you sound really angry about it and really distressed."
             }
         ]
     },
     {
-        "id": 59,
+        "id": 56,
         "conversations": [
             {
                 "from": "human",
@@ -1736,19 +2097,6 @@
             {
                 "from": "gpt",
                 "value": "Where you in foster care a lot? Was it a lot of your early life?"
-            }
-        ]
-    },
-    {
-        "id": 60,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "Just like they're supposed to take care of me. I mean, what a load of crap."
-            },
-            {
-                "from": "gpt",
-                "value": "Where you in foster care a lot? Was it a lot of your early life?"
             },
             {
                 "from": "human",
@@ -1757,20 +2105,20 @@
             {
                 "from": "gpt",
                 "value": "All right. So you don't even know what, how old you were when you first went in there? So you don't know how old you were? So, Julia are you able to hear me right now? Have you, are you still with me there? Are you, do you know where you are? Do you know you're here in the present? You look like you've disassociated a bit there. You're in the present here. You're safe with me. You're not back in foster care. Can you hear me?"
-            },
-            {
-                "from": "human",
-                "value": "Mm-hmm."
-            },
-            {
-                "from": "gpt",
-                "value": "Yeah. Okay. You're safe, it's 2012. You're here with me, Ali in the counseling room. Are you able to just look around the room to confirm to yourself that you're here. Can you see those paintings on the wall? You'll just have to look up there and see the paintings. You see that painting up there? Can you see? Are you able to tell me any of the colors in the painting? Is there any red in it?"
             }
         ]
     },
     {
-        "id": 61,
+        "id": 57,
         "conversations": [
+            {
+                "from": "human",
+                "value": "I can't remember. I just like, I just want to, I just blocked it out. I don't want know. I don't even want to remember, I can't."
+            },
+            {
+                "from": "gpt",
+                "value": "All right. So you don't even know what, how old you were when you first went in there? So you don't know how old you were? So, Julia are you able to hear me right now? Have you, are you still with me there? Are you, do you know where you are? Do you know you're here in the present? You look like you've disassociated a bit there. You're in the present here. You're safe with me. You're not back in foster care. Can you hear me?"
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -1798,8 +2146,16 @@
         ]
     },
     {
-        "id": 62,
+        "id": 58,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Um, blue and yeah, red, and."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah."
+            },
             {
                 "from": "human",
                 "value": "Green."
@@ -1827,8 +2183,16 @@
         ]
     },
     {
-        "id": 63,
+        "id": 59,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And what are the colors in that one?"
+            },
             {
                 "from": "human",
                 "value": "Um, purple and um, yellow."
@@ -1856,8 +2220,16 @@
         ]
     },
     {
-        "id": 64,
+        "id": 60,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "That's great. And now can you see the window over there? Can you see what's, what's out there through the window? Can you see that tree through the window?"
+            },
             {
                 "from": "human",
                 "value": "The trees."
@@ -1885,7 +2257,7 @@
         ]
     },
     {
-        "id": 65,
+        "id": 61,
         "conversations": [
             {
                 "from": "human",
@@ -1910,11 +2282,19 @@
             {
                 "from": "gpt",
                 "value": "(crosstalk) You can't go there."
+            },
+            {
+                "from": "human",
+                "value": "It's too."
+            },
+            {
+                "from": "gpt",
+                "value": "And that's fine. Too hard. So what we were doing then was what's called grounding. So it's about getting you out of your mind, out of your memories, out of how you're feeling, and just into the present, you know, into the present. Into something that's not your thoughts and not your feelings. And so what I did, I reminded you that you were safe and that you were here in the room and that it was 2012. And then I got you to look around the room and actually have a look at what was going on around you. So that's something that you can actually start to use yourself a little bit. It's gonna take, it can take a little bit of practice. But what was it like for you doing that?"
             }
         ]
     },
     {
-        "id": 66,
+        "id": 62,
         "conversations": [
             {
                 "from": "human",
@@ -1939,11 +2319,19 @@
             {
                 "from": "gpt",
                 "value": "It was okay. And it seemed to bring you back."
+            },
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah. Are there any things that you ever use yourself to bring you back? Because I imagine this would, this happens to you from time to time. That you kind of disappear."
             }
         ]
     },
     {
-        "id": 67,
+        "id": 63,
         "conversations": [
             {
                 "from": "human",
@@ -1968,11 +2356,19 @@
             {
                 "from": "gpt",
                 "value": "You, you dissociate."
+            },
+            {
+                "from": "human",
+                "value": "That's why I just try forget it because."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah."
             }
         ]
     },
     {
-        "id": 68,
+        "id": 64,
         "conversations": [
             {
                 "from": "human",
@@ -1997,11 +2393,19 @@
             {
                 "from": "gpt",
                 "value": "Okay."
+            },
+            {
+                "from": "human",
+                "value": "And all of the memories, so."
+            },
+            {
+                "from": "gpt",
+                "value": "It's pretty hard to stop when you're on your own."
             }
         ]
     },
     {
-        "id": 69,
+        "id": 65,
         "conversations": [
             {
                 "from": "human",
@@ -2026,11 +2430,19 @@
             {
                 "from": "gpt",
                 "value": "So, when we're, when we're."
+            },
+            {
+                "from": "human",
+                "value": "And when I, when I've, when I've come out of it um, then I, you know, I need to go um, do something, have something just to try and."
+            },
+            {
+                "from": "gpt",
+                "value": "Calm yourself down."
             }
         ]
     },
     {
-        "id": 70,
+        "id": 66,
         "conversations": [
             {
                 "from": "human",
@@ -2055,19 +2467,6 @@
             {
                 "from": "gpt",
                 "value": "All right. And I'm, I'm gonna do some breathing with you in a minute to help you to calm down further."
-            }
-        ]
-    },
-    {
-        "id": 71,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "Yeah."
-            },
-            {
-                "from": "gpt",
-                "value": "All right. And I'm, I'm gonna do some breathing with you in a minute to help you to calm down further."
             },
             {
                 "from": "human",
@@ -2076,20 +2475,20 @@
             {
                 "from": "gpt",
                 "value": "Um, so, I might do the breathing with you in a minute to help you to calm down just a little bit because when people get upset or agitated or they're anxious, people either kind of breathe really fast and shallow or else they stop breathing all together. And I notice that quite often that you don't breathe and then you'll take a deep breath."
-            },
-            {
-                "from": "human",
-                "value": "Mmm."
-            },
-            {
-                "from": "gpt",
-                "value": "Yeah?"
             }
         ]
     },
     {
-        "id": 72,
+        "id": 67,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Um, so, I might do the breathing with you in a minute to help you to calm down just a little bit because when people get upset or agitated or they're anxious, people either kind of breathe really fast and shallow or else they stop breathing all together. And I notice that quite often that you don't breathe and then you'll take a deep breath."
+            },
             {
                 "from": "human",
                 "value": "Mmm."
@@ -2117,8 +2516,16 @@
         ]
     },
     {
-        "id": 73,
+        "id": 68,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yep."
+            },
+            {
+                "from": "gpt",
+                "value": "You aware of that?"
+            },
             {
                 "from": "human",
                 "value": "At times when I'm, yeah. I'm in, when I was in rehab in the past that they tried to do meditation stuff. And um, yeah, they said, to me that I wasn't very good at breathing. There's times when I just um, I just stop breathing. So now, I'm a bit, I sort of try and."
@@ -2146,8 +2553,16 @@
         ]
     },
     {
-        "id": 74,
+        "id": 69,
         "conversations": [
+            {
+                "from": "human",
+                "value": "No, that was one thing I did notice since. So every now and then I try and."
+            },
+            {
+                "from": "gpt",
+                "value": "That's great."
+            },
             {
                 "from": "human",
                 "value": "Yeah."
@@ -2162,20 +2577,20 @@
             },
             {
                 "from": "gpt",
-                "value": "So, what I'd, what I'll ask you to do, if you're okay about it. Is to either shut your eyes if you feel happy to do that or else just look gently down at your lap. And then I'll just ask you to do a few things about noticing your breathing and changing it. That's great. Okay. So, as you're just sitting there relaxed just become aware, that's it. Get comfy and just become aware of breathing in and breathing out. Just your normal breathing. And just notice how long it takes for each in breathe and each out breathe. Just be aware of that. That's great. Just noticing how long it takes. You're breathing through your nose, that's terrific."
+                "value": "So, what I'd, what I'll ask you to do, if you're okay about it. Is to either shut your eyes if you feel happy to do that or else just look gently down at your lap. And then I'll just ask you to do a few things about noticing your breathing and changing it. That's great. Okay. So, as you're just sitting there relaxed just become aware, that's it. Get comfy and just become aware of breathing in and breathing out. Just your normal breathing. And just notice how long it takes for each in breathe and each out breathe. Just be aware of that. That's great. Just noticing how long it takes. You're breathing through your nose, that's terrific. And now just start to breathe in a little more deeply. Get it down, going down further into your belly. So, you'll probably feel, you should feel your belly rise as you get it in deeper. It's not always easy to do. It's something that can take a bit of practice So just see how much deeper you can get. And the other thing is that quite often when people first start doing this they might feel a little bit dizzy. So it's good to practice it when you're sitting down. Feel a bit dizzy to start with is normal. And that's okay and over time it will pass. So just getting in a bit deeper, that's great. Just imagine getting the air right down to your belly and gradually feeling the rest of your lungs and your chest up. Some people like the air kind of coming in like a wave and filling up their belly and then leaving their belly and coming all the way out again. You're doing really well there. Getting nice and deep there. And now the next step is to see if you can slow that breathing down a little bit. Just slow it down a bit, keeping it nice and deep. And let it out, and in, a little pause and let it out again. Just as slow as you can get it. You're doing really, really well. Nice and slow. Nice and deep. That's great. Now just whenever you're ready Julia, just gently open your eyes. Have a little look around the room. And we can talk about what it was like for you doing that breathing. Yeah?"
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
             },
             {
                 "from": "gpt",
-                "value": "And now just start to breathe in a little more deeply. Get it down, going down further into your belly. So, you'll probably feel, you should feel your belly rise as you get it in deeper. It's not always easy to do. It's something that can take a bit of practice So just see how much deeper you can get. And the other thing is that quite often when people first start doing this they might feel a little bit dizzy. So it's good to practice it when you're sitting down. Feel a bit dizzy to start with is normal. And that's okay and over time it will pass. So just getting in a bit deeper, that's great. Just imagine getting the air right down to your belly and gradually feeling the rest of your lungs and your chest up. Some people like the air kind of coming in like a wave and filling up their belly and then leaving their belly and coming all the way out again. You're doing really well there. Getting nice and deep there. And now the next step is to see if you can slow that breathing down a little bit. Just slow it down a bit, keeping it nice and deep. And let it out, and in, a little pause and let it out again. Just as slow as you can get it."
-            },
-            {
-                "from": "gpt",
-                "value": "You're doing really, really well."
+                "value": "And when you say,\"Mm-hmm.\" You looked like you were, you know, sort of managing it to get it deeper. And how are you feeling down?"
             }
         ]
     },
     {
-        "id": 75,
+        "id": 70,
         "conversations": [
             {
                 "from": "human",
@@ -2200,11 +2615,19 @@
             {
                 "from": "gpt",
                 "value": "Okay. So, that seemed to quite relax you."
+            },
+            {
+                "from": "human",
+                "value": "Mmm, mmm, mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And it really kind of brought you down, sort of put you back into."
             }
         ]
     },
     {
-        "id": 76,
+        "id": 71,
         "conversations": [
             {
                 "from": "human",
@@ -2229,11 +2652,19 @@
             {
                 "from": "gpt",
                 "value": "Hmm."
+            },
+            {
+                "from": "human",
+                "value": "Like we used to do it um, in the mornings and then before we go off to bed or go finish, you know, programs at night. And I remember now that, yeah, and I'd forgotten, I'd forgotten it."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay. So, that's fantastic. So, you've already got this skill? And it's someting."
             }
         ]
     },
     {
-        "id": 77,
+        "id": 72,
         "conversations": [
             {
                 "from": "human",
@@ -2258,19 +2689,6 @@
             {
                 "from": "gpt",
                 "value": "Yes, it is difficult when your own to do it, when you're on your own to do it. And it's difficult to remember it."
-            }
-        ]
-    },
-    {
-        "id": 78,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "It's really easy but it's, it's difficult when you, when you're on your own to do that."
-            },
-            {
-                "from": "gpt",
-                "value": "Yes, it is difficult when your own to do it, when you're on your own to do it. And it's difficult to remember it."
             },
             {
                 "from": "human",
@@ -2279,20 +2697,20 @@
             {
                 "from": "gpt",
                 "value": "So, one of the things that's quite good to do with all these things is to, to try and practice them when you're actually feeling okay."
-            },
-            {
-                "from": "human",
-                "value": "Mm-hmm."
-            },
-            {
-                "from": "gpt",
-                "value": "So that then you, it's easy."
             }
         ]
     },
     {
-        "id": 79,
+        "id": 73,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "So, one of the things that's quite good to do with all these things is to, to try and practice them when you're actually feeling okay."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -2320,8 +2738,16 @@
         ]
     },
     {
-        "id": 80,
+        "id": 74,
         "conversations": [
+            {
+                "from": "human",
+                "value": "It's not very often."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay, not very often but those little tiny moments when you're feeling okay. Um, it's also good to, to try and practice them and, you know, kind of regularly every day as well."
+            },
             {
                 "from": "human",
                 "value": "Mmm."
@@ -2349,8 +2775,16 @@
         ]
     },
     {
-        "id": 81,
+        "id": 75,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Um, now that you're not in rehab and you know, you're just sort of living in your house with your cat. When would be good times for you to practice it? That you think you might be able to remember and perhaps might be able to do it?"
+            },
             {
                 "from": "human",
                 "value": "Um, maybe um, maybe I could do it the first thing in the morning when I wake up before I get up."
@@ -2378,8 +2812,16 @@
         ]
     },
     {
-        "id": 82,
+        "id": 76,
         "conversations": [
+            {
+                "from": "human",
+                "value": "You know if I'm going to go have a joint or something. Maybe I could, maybe could do that before that."
+            },
+            {
+                "from": "gpt",
+                "value": "Wow, that's, that's great."
+            },
             {
                 "from": "human",
                 "value": "Yeah, yeah."
@@ -2407,8 +2849,16 @@
         ]
     },
     {
-        "id": 83,
+        "id": 77,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Even if it's just for a few minutes."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -2436,7 +2886,7 @@
         ]
     },
     {
-        "id": 84,
+        "id": 78,
         "conversations": [
             {
                 "from": "human",
@@ -2461,11 +2911,19 @@
             {
                 "from": "gpt",
                 "value": "And then you were, you, so we did grounding. We came back into the room and back into the present."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm/"
+            },
+            {
+                "from": "gpt",
+                "value": "But you were still not feeling very good."
             }
         ]
     },
     {
-        "id": 85,
+        "id": 79,
         "conversations": [
             {
                 "from": "human",
@@ -2490,11 +2948,19 @@
             {
                 "from": "gpt",
                 "value": "And then we did."
+            },
+            {
+                "from": "human",
+                "value": "After that I feel really."
+            },
+            {
+                "from": "gpt",
+                "value": "You feel really terrible."
             }
         ]
     },
     {
-        "id": 86,
+        "id": 80,
         "conversations": [
             {
                 "from": "human",
@@ -2519,11 +2985,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah."
+            },
+            {
+                "from": "human",
+                "value": "And that's why I usually go use because I feel really out of it."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah, yeah. And then we did the breathing. Are you still feeling really spacey and wanting to use now?"
             }
         ]
     },
     {
-        "id": 87,
+        "id": 81,
         "conversations": [
             {
                 "from": "human",
@@ -2548,11 +3022,19 @@
             {
                 "from": "gpt",
                 "value": "Okay. So, you can use that breathing also. You know, after."
+            },
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "You've been spacey to try to bring yourself back to feeling a bit better to feeling okay."
             }
         ]
     },
     {
-        "id": 88,
+        "id": 82,
         "conversations": [
             {
                 "from": "human",
@@ -2577,11 +3059,19 @@
             {
                 "from": "gpt",
                 "value": "Um, what I do have here that grounding that we just did. There are lots of different ways to do grounding."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And um, we're pretty much at the end of this session today."
             }
         ]
     },
     {
-        "id": 89,
+        "id": 83,
         "conversations": [
             {
                 "from": "human",
@@ -2606,11 +3096,19 @@
             {
                 "from": "gpt",
                 "value": "So, I won't go through them. But I got a little handout here that you might want to read and have a look at. It's, it's got lots of other ways to do it. But you might want to practice at home as well."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm, mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay, so would you like to take that with you and have a look at it."
             }
         ]
     },
     {
-        "id": 90,
+        "id": 84,
         "conversations": [
             {
                 "from": "human",
@@ -2634,24 +3132,7 @@
             },
             {
                 "from": "gpt",
-                "value": "Okay, that's great."
-            }
-        ]
-    },
-    {
-        "id": 91,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "Mmm."
-            },
-            {
-                "from": "gpt",
-                "value": "Okay, that's great."
-            },
-            {
-                "from": "gpt",
-                "value": "So, Julia, we've spent the most of the session so far talking about your boyfriend and what's going on there. And come up with, you've come up with a bit of a plan for how to deal with it."
+                "value": "Okay, that's great. So, Julia, we've spent the most of the session so far talking about your boyfriend and what's going on there. And come up with, you've come up with a bit of a plan for how to deal with it."
             },
             {
                 "from": "human",
@@ -2660,15 +3141,11 @@
             {
                 "from": "gpt",
                 "value": "And um, we checked on how you would go on with your controlled breathing and your grounding. That seems to be going pretty well, actually. Doesn't it?"
-            },
-            {
-                "from": "human",
-                "value": "Mmm-hmm."
             }
         ]
     },
     {
-        "id": 92,
+        "id": 85,
         "conversations": [
             {
                 "from": "human",
@@ -2693,19 +3170,6 @@
             {
                 "from": "gpt",
                 "value": "So, it's about um, you know, creating kind of a, a safe place in your imagination that you can go to whenever you really need just to have a little break from what's going on. When you need to really calm down and just feel calm, relaxed and good."
-            }
-        ]
-    },
-    {
-        "id": 93,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "Mm-hmm."
-            },
-            {
-                "from": "gpt",
-                "value": "So, it's about um, you know, creating kind of a, a safe place in your imagination that you can go to whenever you really need just to have a little break from what's going on. When you need to really calm down and just feel calm, relaxed and good."
             },
             {
                 "from": "human",
@@ -2714,20 +3178,20 @@
             {
                 "from": "gpt",
                 "value": "So, um, does that sound okay? All right. So, what we'll start with, if you're happy to close your eyes."
-            },
-            {
-                "from": "human",
-                "value": "I'm, I mean, I've tried this before."
-            },
-            {
-                "from": "gpt",
-                "value": "Ah, have you. Okay."
             }
         ]
     },
     {
-        "id": 94,
+        "id": 86,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "So, um, does that sound okay? All right. So, what we'll start with, if you're happy to close your eyes."
+            },
             {
                 "from": "human",
                 "value": "I'm, I mean, I've tried this before."
@@ -2755,8 +3219,16 @@
         ]
     },
     {
-        "id": 95,
+        "id": 87,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yeah, um, and like, it's really, really hard to."
+            },
+            {
+                "from": "gpt",
+                "value": "Find somewhere safe. Okay."
+            },
             {
                 "from": "human",
                 "value": "Yeah. Like when we're done this sort of stuff in the past, like when I been like in big groups and doing it, often I end up not."
@@ -2784,8 +3256,16 @@
         ]
     },
     {
-        "id": 96,
+        "id": 88,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Not doing it 'cuz I can't, I can't like, you know."
+            },
+            {
+                "from": "gpt",
+                "value": "It's hard to find somewhere."
+            },
             {
                 "from": "human",
                 "value": "Yeah, it's pretty."
@@ -2813,8 +3293,16 @@
         ]
     },
     {
-        "id": 97,
+        "id": 89,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "When you've done it before in the big groups have they left you to find your own safe place?"
+            },
             {
                 "from": "human",
                 "value": "Yeah."
@@ -2842,8 +3330,16 @@
         ]
     },
     {
-        "id": 98,
+        "id": 90,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Because I could do it in a way where I lead you somewhere and you go down some and then you come out into a safe place. And I can lead you to create it yourself. So I'll tell you what's there."
+            },
             {
                 "from": "human",
                 "value": "Okay."
@@ -2871,8 +3367,16 @@
         ]
     },
     {
-        "id": 99,
+        "id": 91,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yeah, 'cuz the others I know, I know it hasn't, hasn't worked."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay, just left you too much on your own and you couldn't find it."
+            },
             {
                 "from": "human",
                 "value": "Yes. Yeah, my head, I kept getting like my thoughts just race over and I just can't."
@@ -2900,8 +3404,16 @@
         ]
     },
     {
-        "id": 100,
+        "id": 92,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "All the thoughts come in and you can't actually think of anything safe."
+            },
             {
                 "from": "human",
                 "value": "No."
@@ -2929,8 +3441,16 @@
         ]
     },
     {
-        "id": 101,
+        "id": 93,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And that's fine because not everything suits everybody."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -2958,7 +3478,7 @@
         ]
     },
     {
-        "id": 102,
+        "id": 94,
         "conversations": [
             {
                 "from": "human",
@@ -2966,29 +3486,8 @@
             },
             {
                 "from": "gpt",
-                "value": "Okay, so, just gently shut your eyes, get comfy in the chair. That's great. Take a few deep breaths. Settle yourself in."
+                "value": "Okay, so, just gently shut your eyes, get comfy in the chair. That's great. Take a few deep breaths. Settle yourself in. Okay. That's great. Now Julia, what I'm going to do is I'm going to get you to imagine, to start with that you're walking down a path in the bush. And as you're walking down the path, just notice the trees around you. Notice your feet crunching on some leaves underneath them. Notice the feel of the air, warm but not too warm. Slight breeze. Notice that the sky's blue, a couple of tiny little clouds floating around. It's a beautiful day. Notice walking along down this path you're feeling kind of pretty good walking down along this path. And you see up ahead of you a very large limestone wall with a door in it. Quite a big door with a sort of arched frame around it. And as you come closer you realize it's actually a doorway and you look through, you come up to it and you look through the door way. And you see a set of stone stairs leading down. And as you stand at the top of the stairs you've got a feeling if you walk down those stairs there's going to be something very, very nice at the bottom of them. And you really want to walk down them. And so just let yourself start to walk down the stairs. And with every step you take you find yourself feeling better and better, more calm, more centered, more happy, lighter, and you continue to walk down each step. Just feeling better, and better, and calmer, and calmer. More and more relaxed with every step. Continue walking down the steps one after the other. Now you've just got three steps to go. So just take those three steps one after the other. And now you find yourself at the bottom of the stairs feeling very calm, very relaxed, really happy, really light with not cares at all. And you look around you and in front of you, you see a grassy expanse and just beyond that grassy expanse, it's not very wide, you see a lake. Just walk out across the grass looking around you. Walk towards the lake. Noticing everything that you can see. Notice that there's lots of shady trees. You can hear birds in the trees. Notice that you can hear the sound of quacking ducks. And as you look out across the lake you can see a mother duck with a few little baby ducks following her. And as you look further around the lake you can see that there are quite a few ducks around the place. Just all happily floating around the lake. Just pedaling underneath the water. Continue to look around and notice everything else that you can see. Have a look and see if there's a seat for you to have a set down on. Or where there's a nice patch of shade under a tree that you would like to sit down on. Jut explore everything that you can see and hear, and smell in this beautiful safe place that you've found yourself. You're completely safe here, there's absolutely nothing to hurt you, there are just ducks. And if you look really closely you might even see a little rabbit poking its nose out of some undergrowth. It's all very calm, very safe, and you can truly relax here because you are just really safe. And the air's warm, sky's blue, it's just beautiful. You feel calm and relaxed. So just get yourself comfortable there in your safe place. Make any changes to it that you like to, to make it even more safe, more calm, and more relaxed for you. Just explore everything there. And just notice how you feel while you're there in your safe place. Just notice the feeling of calm. Notice the feeling feeling of safety. Notice the feeling of relaxation. Notice how it feels in your body and just enjoy it. And now really being aware of that, that feeling you've got, the feeling of safety, and calm and relaxation. And knowing that you can come back to this safe place whenever you want. Just gently start to make your way back to the stairs. You're walking across the lawn, the grass, and you feeling really, really good. And you know you can come back here whenever you want. And knowing that just walk gently up the stairs and as you walk the stairs you're continuing to feel really safe, really calm, really continent, really relaxed. And you keep on walking up the stairs and now you come out through the door, through the big doorway at the top of the stairs, and you're now back onto the bush track. And just start to walk down that bush track, still feeling very, very calm, continent, relaxed, and safe. And still feeling all those lovely feelings. Whenever you're ready just open your eyes and come back into the room. And when you're ready let me know what that experience was like."
             },
-            {
-                "from": "gpt",
-                "value": "Okay. That's great. Now Julia, what I'm going to do is I'm going to get you to imagine, to start with that you're walking down a path in the bush. And as you're walking down the path, just notice the trees around you. Notice your feet crunching on some leaves underneath them. Notice the feel of the air, warm but not too warm. Slight breeze. Notice that the sky's blue, a couple of tiny little clouds floating around. It's a beautiful day. Notice walking along down this path you're feeling kind of pretty good walking down along this path. And you see up ahead of you a very large limestone wall with a door in it. Quite a big door with a sort of arched frame around it. And as you come closer you realize it's actually a doorway and you look through, you come up to it and you look through the door way. And you see a set of stone stairs leading down. And as you stand at the top of the stairs you've got a feeling if you walk down those stairs there's going to be something very, very nice at the bottom of them. And you really want to walk down them. And so just let yourself start to walk down the stairs. And with every step you take you find yourself feeling better and better, more calm, more centered, more happy, lighter, and you continue to walk down each step. Just feeling better, and better, and calmer, and calmer. More and more relaxed with every step. Continue walking down the steps one after the other. Now you've just got three steps to go. So just take those three steps one after the other. And now you find yourself at the bottom of the stairs feeling very calm, very relaxed, really happy, really light with not cares at all. And you look around you and in front of you, you see a grassy expanse and just beyond that grassy expanse, it's not very wide, you see a lake. Just walk out across the grass looking around you. Walk towards the lake. Noticing everything that you can see. Notice that there's lots of shady trees. You can hear birds in the trees. Notice that you can hear the sound of quacking ducks. And as you look out across the lake you can see a mother duck with a few little baby ducks following her. And as you look further around the lake you can see that there are quite a few ducks around the place. Just all happily floating around the lake. Just pedaling underneath the water. Continue to look around and notice everything else that you can see. Have a look and see if there's a seat for you to have a set down on. Or where there's a nice patch of shade under a tree that you would like to sit down on. Jut explore everything that you can see and hear, and smell in this beautiful safe place that you've found yourself. You're completely safe here, there's absolutely nothing to hurt you, there are just ducks. And if you look really closely you might even see a little rabbit poking its nose out of some undergrowth. It's all very calm, very safe, and you can truly relax here because you are just really safe. And the air's warm, sky's blue, it's just beautiful. You feel calm and relaxed. So just get yourself comfortable there in your safe place. Make any changes to it that you like to, to make it even more safe, more calm, and more relaxed for you. Just explore everything there. And just notice how you feel while you're there in your safe place. Just notice the feeling of calm. Notice the feeling feeling of safety. Notice the feeling of relaxation. Notice how it feels in your body and just enjoy it."
-            },
-            {
-                "from": "gpt",
-                "value": "And now really being aware of that, that feeling you've got, the feeling of safety, and calm and relaxation. And knowing that you can come back to this safe place whenever you want. Just gently start to make your way back to the stairs. You're walking across the lawn, the grass, and you feeling really, really good. And you know you can come back here whenever you want. And knowing that just walk gently up the stairs and as you walk the stairs you're continuing to feel really safe, really calm, really continent, really relaxed. And you keep on walking up the stairs and now you come out through the door, through the big doorway at the top of the stairs, and you're now back onto the bush track. And just start to walk down that bush track, still feeling very, very calm, continent, relaxed, and safe. And still feeling all those lovely feelings. Whenever you're ready just open your eyes and come back into the room. And when you're ready let me know what that experience was like."
-            },
-            {
-                "from": "human",
-                "value": "It was really weird."
-            },
-            {
-                "from": "gpt",
-                "value": "Mmm."
-            }
-        ]
-    },
-    {
-        "id": 103,
-        "conversations": [
             {
                 "from": "human",
                 "value": "It was really weird."
@@ -3016,8 +3515,16 @@
         ]
     },
     {
-        "id": 104,
+        "id": 95,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Because when you said, um, I could do something to make it safer."
+            },
+            {
+                "from": "gpt",
+                "value": "Uh-huh."
+            },
             {
                 "from": "human",
                 "value": "I um, not even thinking I start straight away got up and put a lock on the door."
@@ -3045,8 +3552,16 @@
         ]
     },
     {
-        "id": 105,
+        "id": 96,
         "conversations": [
+            {
+                "from": "human",
+                "value": "So that no one else could come in."
+            },
+            {
+                "from": "gpt",
+                "value": "Come in."
+            },
             {
                 "from": "human",
                 "value": "'Cuz otherwise I couldn't still relax 'cuz I was scared."
@@ -3074,8 +3589,16 @@
         ]
     },
     {
-        "id": 106,
+        "id": 97,
         "conversations": [
+            {
+                "from": "human",
+                "value": "I'm scared that someone might."
+            },
+            {
+                "from": "gpt",
+                "value": "Come in."
+            },
             {
                 "from": "human",
                 "value": "Come in."
@@ -3103,8 +3626,16 @@
         ]
     },
     {
-        "id": 107,
+        "id": 98,
         "conversations": [
+            {
+                "from": "human",
+                "value": "That was good."
+            },
+            {
+                "from": "gpt",
+                "value": "Great. Okay. And you can do other things to that, to that place to make it safer or more relaxing, whatever you want to do. That's your place now."
+            },
             {
                 "from": "human",
                 "value": "Mmm."
@@ -3132,8 +3663,16 @@
         ]
     },
     {
-        "id": 108,
+        "id": 99,
         "conversations": [
+            {
+                "from": "human",
+                "value": "The only thing, I'm a bit worried about is um, like, with, with you saying it, it was good 'cuz I had to listen to you."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay."
+            },
             {
                 "from": "human",
                 "value": "And so I could concentrate on it."
@@ -3161,8 +3700,16 @@
         ]
     },
     {
-        "id": 109,
+        "id": 100,
         "conversations": [
+            {
+                "from": "human",
+                "value": "But um, I've tried these things as I said in the past. I'm not very good because I can't."
+            },
+            {
+                "from": "gpt",
+                "value": "Sure."
+            },
             {
                 "from": "human",
                 "value": "Keep it in my head and I, all the other thoughts and everything else that's going on for me just overtake. So, I can't."
@@ -3190,8 +3737,16 @@
         ]
     },
     {
-        "id": 110,
+        "id": 101,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "The other thing that we can do, Julia, is we could make a CD of it. So that you can actually play it yourself at home or we could record it on to your phone."
+            },
             {
                 "from": "human",
                 "value": "That would be really good."
@@ -3219,8 +3774,16 @@
         ]
     },
     {
-        "id": 111,
+        "id": 102,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And sometimes um, and that, that can make it a little bit easier. And also as you do some of the other, the other strategies that I'm going to teach you. You'll be able to manage that better."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -3248,8 +3811,16 @@
         ]
     },
     {
-        "id": 112,
+        "id": 103,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm, mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And just thinking about it or even think about the feelings you had. So it might not be something that you spend as long getting there and doing as you get used to doing it. It's just something you think, oh my safe place. And you might think about, oh the lake and the ducks, and the lock on the door."
+            },
             {
                 "from": "human",
                 "value": "I felt sad too."
@@ -3277,8 +3848,16 @@
         ]
     },
     {
-        "id": 113,
+        "id": 104,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay."
+            },
             {
                 "from": "human",
                 "value": "I felt really sad because like, you know, I've never had anywhere like that."
@@ -3306,8 +3885,16 @@
         ]
     },
     {
-        "id": 114,
+        "id": 105,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "That, that you hadn't felt safe."
+            },
             {
                 "from": "human",
                 "value": "Mmm, mmm."
@@ -3335,8 +3922,16 @@
         ]
     },
     {
-        "id": 115,
+        "id": 106,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Julia, so that you can get a little rest, you can get a little rest. You know sadness, sadness is kind of a normal feeling for people to have. And it can be an okay feeling sometimes."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm. Yeah."
@@ -3364,19 +3959,23 @@
         ]
     },
     {
-        "id": 116,
+        "id": 107,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "You were enjoying it."
+            },
             {
                 "from": "human",
                 "value": "But I think that was because you were there."
             },
             {
                 "from": "gpt",
-                "value": "Sure. And at that moment that's important for you."
-            },
-            {
-                "from": "gpt",
-                "value": "So, Julia, we've done uh, we've, we've, we've been doing a few strategies and things."
+                "value": "Sure. And at that moment that's important for you. So, Julia, we've done uh, we've, we've, we've been doing a few strategies and things."
             },
             {
                 "from": "human",
@@ -3389,11 +3988,15 @@
             {
                 "from": "human",
                 "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "It's um, you've heard of mindfulness?"
             }
         ]
     },
     {
-        "id": 117,
+        "id": 108,
         "conversations": [
             {
                 "from": "human",
@@ -3418,11 +4021,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah, like the new big thing or something."
+            },
+            {
+                "from": "human",
+                "value": "Yeah. There was some, some, I think some, some celebrity being interviewed about her[00:49:15 doing it or something. But I didn't really."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah, didn't really, didn't really pay much attention. Well, one of the things, what mindfulness is about."
             }
         ]
     },
     {
-        "id": 118,
+        "id": 109,
         "conversations": [
             {
                 "from": "human",
@@ -3447,11 +4058,19 @@
             {
                 "from": "gpt",
                 "value": "It's actually about kind of being in the present moment and learning to accept our experience, what's going on for us. At the moment, you know, people, people, a lot of people, most people really, we spend a lot of our time kind of caught up in our own thoughts or kind of like caught up in thinking about how terrible we feel."
+            },
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And getting really upset about it. Or we spend a lot of our time trying to avoid thinking about anything or thinking about anything."
             }
         ]
     },
     {
-        "id": 119,
+        "id": 110,
         "conversations": [
             {
                 "from": "human",
@@ -3476,11 +4095,19 @@
             {
                 "from": "gpt",
                 "value": "Um, and what happens when we do that all the time is, particularly when we try to avoid feeling anything and we don't, or thinking anything then we don't kind of gradually learn how to tolerate or to be able to feel things without getting upset."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And when we get caught up in feeling upset and thinking how terrible it is."
             }
         ]
     },
     {
-        "id": 120,
+        "id": 111,
         "conversations": [
             {
                 "from": "human",
@@ -3505,11 +4132,19 @@
             {
                 "from": "gpt",
                 "value": "Often it can make us feel even worse."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "So what mindfulness is about is learning just to accept our feelings, our thoughts, our sense, our bodily sensations without judging them, without trying to push them away."
             }
         ]
     },
     {
-        "id": 121,
+        "id": 112,
         "conversations": [
             {
                 "from": "human",
@@ -3534,11 +4169,19 @@
             {
                 "from": "gpt",
                 "value": "Now that might sound a little weird."
+            },
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah."
             }
         ]
     },
     {
-        "id": 122,
+        "id": 113,
         "conversations": [
             {
                 "from": "human",
@@ -3563,11 +4206,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah, and mindfulness wouldn't be, you wouldn't use it when you're feel really overwhelmed."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Because then you need to use grounding."
             }
         ]
     },
     {
-        "id": 123,
+        "id": 114,
         "conversations": [
             {
                 "from": "human",
@@ -3592,11 +4243,19 @@
             {
                 "from": "gpt",
                 "value": "Or drugs. Yes. So, at the moment you'd use mindfulness um, when things are as intense."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "It'll be kind of more practicing to, practicing, you know, being able to manage less intense emotions or being able to actually just feel them without trying to push them away. Being able to acknowledging your thoughts without judging them or push them away."
             }
         ]
     },
     {
-        "id": 124,
+        "id": 115,
         "conversations": [
             {
                 "from": "human",
@@ -3621,11 +4280,19 @@
             {
                 "from": "gpt",
                 "value": "But also without getting too caught up in them."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Now it can be pretty hard to do. Everybody finds it hard to do."
             }
         ]
     },
     {
-        "id": 125,
+        "id": 116,
         "conversations": [
             {
                 "from": "human",
@@ -3650,11 +4317,19 @@
             {
                 "from": "gpt",
                 "value": "And it can be frustrating sometimes."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Um, and it's really just about trying it, just practicing it in a little bit."
             }
         ]
     },
     {
-        "id": 126,
+        "id": 117,
         "conversations": [
             {
                 "from": "human",
@@ -3679,11 +4354,19 @@
             {
                 "from": "gpt",
                 "value": "Would you, and we often use the breath as a kind of an anchor to bring us into the present to help us to do that."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "So, would you like to, would you be prepared to try a little mindfulness exercise now?"
             }
         ]
     },
     {
-        "id": 127,
+        "id": 118,
         "conversations": [
             {
                 "from": "human",
@@ -3708,20 +4391,20 @@
             {
                 "from": "gpt",
                 "value": "We might actually, I might start off with the mindfulness exercise which might seem a little bit more ground, like grounding. But it's still a mindfulness exercise. So this one is really about just, first of all being mindful of what you can see. So, would you like to just kind of look around the room. To start with. Maybe, maybe looking out the window might be a better thing to do."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "So, if you look out the window, just notice everything that you can see out there. Notice the tree, notice the sky. Just really study what you can see. Just look at it. And what most people find when they, when they just look at something is some, or when they try to focus on something that all sorts of thoughts floating to their mind."
             }
         ]
     },
     {
-        "id": 128,
+        "id": 119,
         "conversations": [
-            {
-                "from": "human",
-                "value": "Mm-hmm, mm-hmm."
-            },
-            {
-                "from": "gpt",
-                "value": "We might actually, I might start off with the mindfulness exercise which might seem a little bit more ground, like grounding. But it's still a mindfulness exercise. So this one is really about just, first of all being mindful of what you can see. So, would you like to just kind of look around the room. To start with. Maybe, maybe looking out the window might be a better thing to do."
-            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -3737,19 +4420,6 @@
             {
                 "from": "gpt",
                 "value": "So just keep looking out the window and as you notice thoughts floating into your mind. Just notice them, don't try to push them away, don't be upset with them. Just think, well they're just thoughts. Um, but just notice them. Oh, I'm thinking about my boyfriend and then bring your attention back to looking at that tree out the window. Noticing all the colors of the leaves, just everything that you can see."
-            }
-        ]
-    },
-    {
-        "id": 129,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "Mmm."
-            },
-            {
-                "from": "gpt",
-                "value": "So just keep looking out the window and as you notice thoughts floating into your mind. Just notice them, don't try to push them away, don't be upset with them. Just think, well they're just thoughts. Um, but just notice them. Oh, I'm thinking about my boyfriend and then bring your attention back to looking at that tree out the window. Noticing all the colors of the leaves, just everything that you can see."
             },
             {
                 "from": "human",
@@ -3757,20 +4427,20 @@
             },
             {
                 "from": "gpt",
-                "value": "And as you do that, you know, other thoughts are coming. Just notice them, just not buy into them, and don't go with them. Just, just let them go and just let your attention go back to the tree. And as you do that it's likely if you're like most people that thoughts will just keep on coming in and trying to drag your attention away. That's really normal. That's okay, again just notice them. Don't be upset by them, just bring your attention back to the tree. So just keep looking at that tree, just noticing your thoughts and letting them go. Now just see how you go with that just for you know, about a minute or so."
-            },
-            {
-                "from": "gpt",
-                "value": "Just noticing your thoughts, letting them go."
+                "value": "And as you do that, you know, other thoughts are coming. Just notice them, just not buy into them, and don't go with them. Just, just let them go and just let your attention go back to the tree. And as you do that it's likely if you're like most people that thoughts will just keep on coming in and trying to drag your attention away. That's really normal. That's okay, again just notice them. Don't be upset by them, just bring your attention back to the tree. So just keep looking at that tree, just noticing your thoughts and letting them go. Now just see how you go with that just for you know, about a minute or so. Just noticing your thoughts, letting them go."
             },
             {
                 "from": "human",
                 "value": "I think that that's probably enough."
+            },
+            {
+                "from": "gpt",
+                "value": "That's enough for you now?"
             }
         ]
     },
     {
-        "id": 130,
+        "id": 120,
         "conversations": [
             {
                 "from": "human",
@@ -3795,11 +4465,19 @@
             {
                 "from": "gpt",
                 "value": "Which is instead of having your eyes open like that, you have your eyes shut and you just listen to all the sounds you can hear."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Would you like to try that one for just a little bit?"
             }
         ]
     },
     {
-        "id": 131,
+        "id": 121,
         "conversations": [
             {
                 "from": "human",
@@ -3824,11 +4502,19 @@
             {
                 "from": "gpt",
                 "value": "Just shut your eyes, just listen to all the sounds that you can hear. Just notice everything that you can hear. Once again you'll probably have thoughts that float in, just notice them and let them go. And bring your attention back to the sounds. You might be able to hear the slight hum of the air conditioner."
+            },
+            {
+                "from": "human",
+                "value": "I hear my stomach."
+            },
+            {
+                "from": "gpt",
+                "value": "You hear your stomach."
             }
         ]
     },
     {
-        "id": 132,
+        "id": 122,
         "conversations": [
             {
                 "from": "human",
@@ -3852,24 +4538,7 @@
             },
             {
                 "from": "gpt",
-                "value": "This is a nice one to do at the beach because if you sit at the beach you could hear the waves rolling in. It's a real nice one to do at the beach."
-            }
-        ]
-    },
-    {
-        "id": 133,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "Yeah."
-            },
-            {
-                "from": "gpt",
-                "value": "This is a nice one to do at the beach because if you sit at the beach you could hear the waves rolling in. It's a real nice one to do at the beach."
-            },
-            {
-                "from": "gpt",
-                "value": "And as you're listening to the sounds, just noticing your thoughts and letting them go. Okay. That's great. Now while we're doing that would you like to try another one or talk about those ones before we try another one."
+                "value": "This is a nice one to do at the beach because if you sit at the beach you could hear the waves rolling in. It's a real nice one to do at the beach. And as you're listening to the sounds, just noticing your thoughts and letting them go. Okay. That's great. Now while we're doing that would you like to try another one or talk about those ones before we try another one."
             },
             {
                 "from": "human",
@@ -3878,15 +4547,11 @@
             {
                 "from": "gpt",
                 "value": "You like the second one better, okay."
-            },
-            {
-                "from": "human",
-                "value": "Yes, I just couldn't concentrate out there because, yeah, it was just like almost to far."
             }
         ]
     },
     {
-        "id": 134,
+        "id": 123,
         "conversations": [
             {
                 "from": "human",
@@ -3911,11 +4576,19 @@
             {
                 "from": "gpt",
                 "value": "Mm-hmm, that's great. Well, they're good things to learn. And everybody's different those things. Some people like looking at things and doing it that way. Some people like shutting their eyes and listening to things."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And now I, and the other thing is that, you know, how long you do it for you can start out with just a little time and gradually expand it."
             }
         ]
     },
     {
-        "id": 135,
+        "id": 124,
         "conversations": [
             {
                 "from": "human",
@@ -3940,11 +4613,19 @@
             {
                 "from": "gpt",
                 "value": "I know at the moment it's important to have my voice, and if I leave it for too long without my voice there that, you know, things get."
+            },
+            {
+                "from": "human",
+                "value": "It's too much."
+            },
+            {
+                "from": "gpt",
+                "value": "It gets too much. Yeah, get a bit scary. And so, it's just, it's going to be about starting off with little short periods of time and gradually increasing them."
             }
         ]
     },
     {
-        "id": 136,
+        "id": 125,
         "conversations": [
             {
                 "from": "human",
@@ -3969,19 +4650,6 @@
             {
                 "from": "gpt",
                 "value": "So, excuse me. So what I'd like to try now is just doing the same thing but with you focusing on your breath. So, it's not controlled breathing, it's different. So, if you're happy."
-            }
-        ]
-    },
-    {
-        "id": 137,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "Mm-hmm."
-            },
-            {
-                "from": "gpt",
-                "value": "So, excuse me. So what I'd like to try now is just doing the same thing but with you focusing on your breath. So, it's not controlled breathing, it's different. So, if you're happy."
             },
             {
                 "from": "human",
@@ -3990,20 +4658,20 @@
             {
                 "from": "gpt",
                 "value": "Shut your eyes. I'm going to do two, two different breath ones and you can see which one you like best. So the first one, I'll ask you to focus just on the air going in and out of your nostrils. And the next one, I'll get you to focus on the air going all the way down into your lungs and back. So, just to start with, we'll do the nostril one. So just, just notice the sensations around your nostrils as you breath in and as you breath out. You might be aware that the air is slightly cooler as it goes in. Slightly warmer as it goes out. Some people can feel the air going across their upper lip, other people can't. And as you focus on the air going in and out of your nostrils, again if you're like everybody else there will be all sorts of thoughts that start floating into your mind or some people rushing into your mind. And when they come into your mind just gently acknowledge them, notice what they are, but don't go with them. Just let them go and bring your attention back to the air going in and out of your nostrils. Know that it's normal to have thoughts floating around in your mind trying to drag your attention away. That's what our minds do. And knowing that it's also normal to maybe feel some irritation that they won't stop. And if you feel some irritation and you find yourself saying, \"Oh, this is stupid.\" or \"This is annoying.\" Just notice that. That's another thought. Don't judge it, don't be upset with yourself. Don't be angry at the thought. Just, they're all just thoughts. Just acknowledge them, let them go, and bring your attention back to the air going in and out of your nostrils."
-            },
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "conversations": [
             {
                 "from": "human",
                 "value": "Mm-hmm."
             },
             {
                 "from": "gpt",
-                "value": "Okay. That was enough time for you?"
-            }
-        ]
-    },
-    {
-        "id": 138,
-        "conversations": [
+                "value": "Shut your eyes. I'm going to do two, two different breath ones and you can see which one you like best. So the first one, I'll ask you to focus just on the air going in and out of your nostrils. And the next one, I'll get you to focus on the air going all the way down into your lungs and back. So, just to start with, we'll do the nostril one. So just, just notice the sensations around your nostrils as you breath in and as you breath out. You might be aware that the air is slightly cooler as it goes in. Slightly warmer as it goes out. Some people can feel the air going across their upper lip, other people can't. And as you focus on the air going in and out of your nostrils, again if you're like everybody else there will be all sorts of thoughts that start floating into your mind or some people rushing into your mind. And when they come into your mind just gently acknowledge them, notice what they are, but don't go with them. Just let them go and bring your attention back to the air going in and out of your nostrils. Know that it's normal to have thoughts floating around in your mind trying to drag your attention away. That's what our minds do. And knowing that it's also normal to maybe feel some irritation that they won't stop. And if you feel some irritation and you find yourself saying, \"Oh, this is stupid.\" or \"This is annoying.\" Just notice that. That's another thought. Don't judge it, don't be upset with yourself. Don't be angry at the thought. Just, they're all just thoughts. Just acknowledge them, let them go, and bring your attention back to the air going in and out of your nostrils."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -4031,8 +4699,16 @@
         ]
     },
     {
-        "id": 139,
+        "id": 127,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Pretty hard."
+            },
+            {
+                "from": "gpt",
+                "value": "It's very hard. I know."
+            },
             {
                 "from": "human",
                 "value": "Mmm."
@@ -4060,19 +4736,23 @@
         ]
     },
     {
-        "id": 140,
+        "id": 128,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm, mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay. So, just shut your eyes again."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
             },
             {
                 "from": "gpt",
-                "value": "And this time, we're going to do the same thing. We're just, but this time you're going to notice the air as it goes all the way down into your lungs. You're just going to follow it. And all the way out again. So, just notice what it feels like, as the air goes into your lungs and out again. Just follow that air with your attention. You might notice your chest raising. Just notice it as it goes in and out. And again, just notice any thoughts that float through your mind. Gently acknowledge them. Be gently, don't judge them, and just let them go. And bring your attention back to the air going in and out of your lungs. And if you find yourself judging a thought, just note it. That's all, I'm judging that thought. And then let, that's another thought and let that thought go. And just keep your attention on the air going in and out of your lungs. The air goes in and out and in and out. It can sometimes help if you say to yourself, in and out."
-            },
-            {
-                "from": "gpt",
-                "value": "So just try that for as long as you can. That's enough for you?"
+                "value": "And this time, we're going to do the same thing. We're just, but this time you're going to notice the air as it goes all the way down into your lungs. You're just going to follow it. And all the way out again. So, just notice what it feels like, as the air goes into your lungs and out again. Just follow that air with your attention. You might notice your chest raising. Just notice it as it goes in and out. And again, just notice any thoughts that float through your mind. Gently acknowledge them. Be gently, don't judge them, and just let them go. And bring your attention back to the air going in and out of your lungs. And if you find yourself judging a thought, just note it. That's all, I'm judging that thought. And then let, that's another thought and let that thought go. And just keep your attention on the air going in and out of your lungs. The air goes in and out and in and out. It can sometimes help if you say to yourself, in and out. So just try that for as long as you can. That's enough for you?"
             },
             {
                 "from": "human",
@@ -4085,11 +4765,15 @@
             {
                 "from": "human",
                 "value": "Um, it's really, really hard to stay."
+            },
+            {
+                "from": "gpt",
+                "value": "Yes."
             }
         ]
     },
     {
-        "id": 141,
+        "id": 129,
         "conversations": [
             {
                 "from": "human",
@@ -4114,11 +4798,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah."
+            },
+            {
+                "from": "human",
+                "value": "And um, it sort of makes me realize how like, it's really hard to try and relax because when you do, like when I, I don't stop very often. Like I, I'm always, like I always feel like I'm, like I got to keep moving. And so, I wanted to sort of get up and go and do all the things that I have to do."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay. So, very hard to relax."
             }
         ]
     },
     {
-        "id": 142,
+        "id": 130,
         "conversations": [
             {
                 "from": "human",
@@ -4143,11 +4835,19 @@
             {
                 "from": "gpt",
                 "value": "And you thought it just makes you aware of how busy your mind is too."
+            },
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Doesn't it?"
             }
         ]
     },
     {
-        "id": 143,
+        "id": 131,
         "conversations": [
             {
                 "from": "human",
@@ -4172,11 +4872,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah. Okay. So, all of this is great. It's really good awareness. And yes, it is very difficult."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Doing these, these mindfulness exercises. They're not easy at all."
             }
         ]
     },
     {
-        "id": 144,
+        "id": 132,
         "conversations": [
             {
                 "from": "human",
@@ -4201,11 +4909,19 @@
             {
                 "from": "gpt",
                 "value": "And um, they take. I mean if you're prepared to have a go at them and do little bits of practice um, it will be interesting, it might be interesting for you to see how you go."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Did you like the one with the nostrils better or the one with the air going all the way in and out."
             }
         ]
     },
     {
-        "id": 145,
+        "id": 133,
         "conversations": [
             {
                 "from": "human",
@@ -4230,11 +4946,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah, going down. Okay. So, you're quite, you said that the, the listening one was kind of okay?"
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And that the air going going in and out was better than the one of the nostrils."
             }
         ]
     },
     {
-        "id": 146,
+        "id": 134,
         "conversations": [
             {
                 "from": "human",
@@ -4259,11 +4983,19 @@
             {
                 "from": "gpt",
                 "value": "So, and you might want to just play around with them because you can. The shutting your eyes, you can't obviously be doing that if you're driving a car or riding a bike."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Um, but with the um, with the air going in and out, you can actually do that with your eyes open, too."
             }
         ]
     },
     {
-        "id": 147,
+        "id": 135,
         "conversations": [
             {
                 "from": "human",
@@ -4288,11 +5020,19 @@
             {
                 "from": "gpt",
                 "value": "If you wanted."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "So you could probably do that anywhere."
             }
         ]
     },
     {
-        "id": 148,
+        "id": 136,
         "conversations": [
             {
                 "from": "human",
@@ -4317,11 +5057,19 @@
             {
                 "from": "gpt",
                 "value": "You know, sitting on the bench waiting for the bus."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "You can practice that."
             }
         ]
     },
     {
-        "id": 149,
+        "id": 137,
         "conversations": [
             {
                 "from": "human",
@@ -4346,11 +5094,19 @@
             {
                 "from": "gpt",
                 "value": "And the other one you can just practice it little times when you're, when you've got, you know, a few seconds to spare."
+            },
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "So, do you think you might like to have a go at them and."
             }
         ]
     },
     {
-        "id": 150,
+        "id": 138,
         "conversations": [
             {
                 "from": "human",
@@ -4375,11 +5131,19 @@
             {
                 "from": "gpt",
                 "value": "Just play around during the week."
+            },
+            {
+                "from": "human",
+                "value": "Yep."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay. That sounds great."
             }
         ]
     },
     {
-        "id": 151,
+        "id": 139,
         "conversations": [
             {
                 "from": "human",
@@ -4395,20 +5159,28 @@
             },
             {
                 "from": "gpt",
-                "value": "Okay. That sounds great."
-            },
-            {
-                "from": "gpt",
-                "value": "Hi, Julia. How are you going today?"
+                "value": "Okay. That sounds great. Hi, Julia. How are you going today?"
             },
             {
                 "from": "human",
                 "value": "Uh, I was going to cancel today, Ali. I'm really um, yeah, I'm not going to be. I don't think, I'm just, huh, I just feel so angry. And I don't, huh, I'm just so angry. I don't know if I'm angry at myself or if I'm angry at Joel, or, or what. So, I'm, I don't know how much use, so I was just going to cancel. But then I remembered what you said, sometimes when you feel like, this is a good time."
+            },
+            {
+                "from": "gpt",
+                "value": "Yes."
+            },
+            {
+                "from": "human",
+                "value": "To come and I'm just."
+            },
+            {
+                "from": "gpt",
+                "value": "I'm really pleased that you're here."
             }
         ]
     },
     {
-        "id": 152,
+        "id": 140,
         "conversations": [
             {
                 "from": "human",
@@ -4433,11 +5205,19 @@
             {
                 "from": "gpt",
                 "value": "And I can, I can see that you are feeling really quite distress and disturbed. Can you tell me a little bit more about what's going on. You say, you're feeling angry."
+            },
+            {
+                "from": "human",
+                "value": "Huh."
+            },
+            {
+                "from": "gpt",
+                "value": "What's happening?"
             }
         ]
     },
     {
-        "id": 153,
+        "id": 141,
         "conversations": [
             {
                 "from": "human",
@@ -4462,11 +5242,19 @@
             {
                 "from": "gpt",
                 "value": "Oh no."
+            },
+            {
+                "from": "human",
+                "value": "You know, let's, and let's have a really big night of it. And it's like, like you know, huh."
+            },
+            {
+                "from": "gpt",
+                "value": "So is it's all these things and you kind of trust him and you think he's there?"
             }
         ]
     },
     {
-        "id": 154,
+        "id": 142,
         "conversations": [
             {
                 "from": "human",
@@ -4491,19 +5279,6 @@
             {
                 "from": "gpt",
                 "value": "And then he, and then he, and then what happened?"
-            }
-        ]
-    },
-    {
-        "id": 155,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "Oh yeah, he says he is."
-            },
-            {
-                "from": "gpt",
-                "value": "And then he, and then he, and then what happened?"
             },
             {
                 "from": "human",
@@ -4512,20 +5287,20 @@
             {
                 "from": "gpt",
                 "value": "And so you're feeling really, really angry. But I wonder if there's something else going on with you as well. Cuz, you're angry."
-            },
-            {
-                "from": "human",
-                "value": "What do you mean?"
-            },
-            {
-                "from": "gpt",
-                "value": "You're angry about Joel?"
             }
         ]
     },
     {
-        "id": 156,
+        "id": 143,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Well, you know, it's like then well because he wants to use, you know, oh, to bad about me. You know, it's about all about Joel."
+            },
+            {
+                "from": "gpt",
+                "value": "And so you're feeling really, really angry. But I wonder if there's something else going on with you as well. Cuz, you're angry."
+            },
             {
                 "from": "human",
                 "value": "What do you mean?"
@@ -4553,8 +5328,16 @@
         ]
     },
     {
-        "id": 157,
+        "id": 144,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Oh, I'm angry, I'm angry at the whole."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah."
+            },
             {
                 "from": "human",
                 "value": "Like, I'm just angry that I, you know, I trust. I, you know, you know how hard it is for me to trust."
@@ -4582,8 +5365,16 @@
         ]
     },
     {
-        "id": 158,
+        "id": 145,
         "conversations": [
+            {
+                "from": "human",
+                "value": "And I trusted him, and."
+            },
+            {
+                "from": "gpt",
+                "value": "You're sounding a little bit upset to me there too. You're sounding a little bit kind of hurt or sad."
+            },
             {
                 "from": "human",
                 "value": "I'm really sad. Yeah. Like, I'm, you know. I'd like, I had. Like I feel I had no choice. Like I didn't want to be on my own."
@@ -4611,8 +5402,16 @@
         ]
     },
     {
-        "id": 159,
+        "id": 146,
         "conversations": [
+            {
+                "from": "human",
+                "value": "You know, I didn't, I didn't want to go and use but I didn't want to be on my own. And it's like, I just didn't know what to."
+            },
+            {
+                "from": "gpt",
+                "value": "Do."
+            },
             {
                 "from": "human",
                 "value": "I didn't know what to do. And you know, I didn't know. And you know, I just, you know, it was just. And then I fail, I fail again. You know, I fail again. You know, I mean."
@@ -4640,8 +5439,16 @@
         ]
     },
     {
-        "id": 160,
+        "id": 147,
         "conversations": [
+            {
+                "from": "human",
+                "value": "No."
+            },
+            {
+                "from": "gpt",
+                "value": "And you wanted Joel to support you the way he said he was going to. And then he."
+            },
             {
                 "from": "human",
                 "value": "And he just didn't."
@@ -4669,8 +5476,16 @@
         ]
     },
     {
-        "id": 161,
+        "id": 148,
         "conversations": [
+            {
+                "from": "human",
+                "value": "He's never, he never understands how I feel."
+            },
+            {
+                "from": "gpt",
+                "value": "So you felt let down."
+            },
             {
                 "from": "human",
                 "value": "Yeah."
@@ -4698,8 +5513,16 @@
         ]
     },
     {
-        "id": 162,
+        "id": 149,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yeah. And you know, and then really, really, you know, like I, I've just. Yeah, it's like, all I wanted is someone to help me to, to, to do this. And you know."
+            },
+            {
+                "from": "gpt",
+                "value": "And then you were, and you said you were feeling sad. And you were feeling sad. What were, are you feeling sad at, because you're, you feel?"
+            },
             {
                 "from": "human",
                 "value": "I'm feeling angry."
@@ -4727,8 +5550,16 @@
         ]
     },
     {
-        "id": 163,
+        "id": 150,
         "conversations": [
+            {
+                "from": "human",
+                "value": "I'm feeling sad and I'm feeling like an absolute bloody, you know, loser because huh, I then went and used with him and you know."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay, so."
+            },
             {
                 "from": "human",
                 "value": "That's why I said, I just didn't want to come today."
@@ -4756,7 +5587,7 @@
         ]
     },
     {
-        "id": 164,
+        "id": 151,
         "conversations": [
             {
                 "from": "human",
@@ -4781,19 +5612,6 @@
             {
                 "from": "gpt",
                 "value": "Yeah."
-            }
-        ]
-    },
-    {
-        "id": 165,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "I was really glad about that. But, you know."
-            },
-            {
-                "from": "gpt",
-                "value": "Yeah."
             },
             {
                 "from": "human",
@@ -4802,20 +5620,20 @@
             {
                 "from": "gpt",
                 "value": "So you went 6 days and then you used once this week. Now, that sounds pretty good to me."
-            },
-            {
-                "from": "human",
-                "value": "Why?"
-            },
-            {
-                "from": "gpt",
-                "value": "And you, because that's much better than you've been doing before. Isn't it?"
             }
         ]
     },
     {
-        "id": 166,
+        "id": 152,
         "conversations": [
+            {
+                "from": "human",
+                "value": "6 days."
+            },
+            {
+                "from": "gpt",
+                "value": "So you went 6 days and then you used once this week. Now, that sounds pretty good to me."
+            },
             {
                 "from": "human",
                 "value": "Why?"
@@ -4843,8 +5661,16 @@
         ]
     },
     {
-        "id": 167,
+        "id": 153,
         "conversations": [
+            {
+                "from": "human",
+                "value": "You reckon?"
+            },
+            {
+                "from": "gpt",
+                "value": "Well, you tell me. When did you last go 6 days without using before last week."
+            },
             {
                 "from": "human",
                 "value": "Oh, I can't remember."
@@ -4872,8 +5698,16 @@
         ]
     },
     {
-        "id": 168,
+        "id": 154,
         "conversations": [
+            {
+                "from": "human",
+                "value": "He knows my I don't like being on my own."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah. And, and we hadn't really talked about that. We hadn't really come up with a plan for that sort of situation."
+            },
             {
                 "from": "human",
                 "value": "Hmm."
@@ -4901,8 +5735,16 @@
         ]
     },
     {
-        "id": 169,
+        "id": 155,
         "conversations": [
+            {
+                "from": "human",
+                "value": "No."
+            },
+            {
+                "from": "gpt",
+                "value": "And so you."
+            },
             {
                 "from": "human",
                 "value": "I didn't have, I just felt like I didn't."
@@ -4930,7 +5772,7 @@
         ]
     },
     {
-        "id": 170,
+        "id": 156,
         "conversations": [
             {
                 "from": "human",
@@ -4955,11 +5797,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah."
+            },
+            {
+                "from": "human",
+                "value": "I was making too much noise or I wasn't cleaning up my room. I was always in the way when she wanted some man over. Like she'd say, I wish you weren't here. You know, I could."
+            },
+            {
+                "from": "gpt",
+                "value": "So Mum used to be always giving you the idea that you're a failure, that you're useless. All those things that you say to yourself now. Isn't that right?"
             }
         ]
     },
     {
-        "id": 171,
+        "id": 157,
         "conversations": [
             {
                 "from": "human",
@@ -4984,11 +5834,19 @@
             {
                 "from": "gpt",
                 "value": "So, so, what I wonder, Julia. Is where the part of what happens now. Is that anything that you do that's not, that you feel is not right suddenly you just starting doing to yourself what Mum used to do. And sometimes it's maybe, you know, I think you might be being harsh on yourself, over harsh on yourself."
+            },
+            {
+                "from": "human",
+                "value": "You think so?"
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah."
             }
         ]
     },
     {
-        "id": 172,
+        "id": 158,
         "conversations": [
             {
                 "from": "human",
@@ -5013,11 +5871,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah. So, just think about it. Um, if you think of this current situation."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "If you actually think about that fact that you actually went 6 days."
             }
         ]
     },
     {
-        "id": 173,
+        "id": 159,
         "conversations": [
             {
                 "from": "human",
@@ -5042,11 +5908,19 @@
             {
                 "from": "gpt",
                 "value": "Without using, and then you've had one lapse."
+            },
+            {
+                "from": "human",
+                "value": "I was feeling really good about it."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah. And you had one lapse and you're here today. Is that a little bit different from the way things have been in the past?"
             }
         ]
     },
     {
-        "id": 174,
+        "id": 160,
         "conversations": [
             {
                 "from": "human",
@@ -5071,11 +5945,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah, okay."
+            },
+            {
+                "from": "human",
+                "value": "I mean I'm really trying."
+            },
+            {
+                "from": "gpt",
+                "value": "I know you are. You are trying. So, what I'd actually like to do is a little bit of work around those beliefs that you've got about yourself. Those beliefs about, I'm useless and I'm, you know."
             }
         ]
     },
     {
-        "id": 175,
+        "id": 161,
         "conversations": [
             {
                 "from": "human",
@@ -5100,11 +5982,19 @@
             {
                 "from": "gpt",
                 "value": "I'm a failure. Those beliefs. And I know you believe them. I know that, just sort of talking about that you were actually overly harsh on yourself, doesn't stop you believing them."
+            },
+            {
+                "from": "human",
+                "value": "'Cuz, 'cuz I've not got anything to like, you know, what have I done. I mean, I haven't, I haven't got."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay."
             }
         ]
     },
     {
-        "id": 176,
+        "id": 162,
         "conversations": [
             {
                 "from": "human",
@@ -5129,11 +6019,19 @@
             {
                 "from": "gpt",
                 "value": "No, you're trying really hard now. And you're doing really, really well. But what I'd like to do is just think about where they came from."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "You know the sorts of things that Mum used to say to you as a little girl."
             }
         ]
     },
     {
-        "id": 177,
+        "id": 163,
         "conversations": [
             {
                 "from": "human",
@@ -5158,11 +6056,19 @@
             {
                 "from": "gpt",
                 "value": "Now when she used to say those things to you and you just took them on-board and believed them and you still do. But do you think you were a failure, useless failure as a little girl? Do you still believe that?"
+            },
+            {
+                "from": "human",
+                "value": "Well, I tried hard. I really."
+            },
+            {
+                "from": "gpt",
+                "value": "Mmm."
             }
         ]
     },
     {
-        "id": 178,
+        "id": 164,
         "conversations": [
             {
                 "from": "human",
@@ -5187,11 +6093,19 @@
             {
                 "from": "gpt",
                 "value": "Mmm."
+            },
+            {
+                "from": "human",
+                "value": "Tried to keep quiet and I'd get up in the morning and go to school on my own because I didn't want uh, disturb her and I'd go and get the alcohol. You know, I'd go down to the bottle shop when she wanted it because she was too sick. Mum was sick a lot so she'd be too sick to go and get it, so I'd go and do that. And I tried and clean up our, our place. And but it didn't matter what I did, it never, I could."
+            },
+            {
+                "from": "gpt",
+                "value": "It never pleased her"
             }
         ]
     },
     {
-        "id": 179,
+        "id": 165,
         "conversations": [
             {
                 "from": "human",
@@ -5216,11 +6130,19 @@
             {
                 "from": "gpt",
                 "value": "And so, it sounds like you did an awful lot?"
+            },
+            {
+                "from": "human",
+                "value": "It felt, felt like."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah."
             }
         ]
     },
     {
-        "id": 180,
+        "id": 166,
         "conversations": [
             {
                 "from": "human",
@@ -5245,11 +6167,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah."
+            },
+            {
+                "from": "human",
+                "value": "Trying to keep everything going so that."
+            },
+            {
+                "from": "gpt",
+                "value": "And yet you still felt like you were a failure because you could never please here, Mum."
             }
         ]
     },
     {
-        "id": 181,
+        "id": 167,
         "conversations": [
             {
                 "from": "human",
@@ -5274,11 +6204,19 @@
             {
                 "from": "gpt",
                 "value": "If you saw another little girl doing all of that."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And here Mum, you know, telling her she was useless and failure and she was believing she was useless and a failure. What would you think about that little girl?"
             }
         ]
     },
     {
-        "id": 182,
+        "id": 168,
         "conversations": [
             {
                 "from": "human",
@@ -5303,11 +6241,19 @@
             {
                 "from": "gpt",
                 "value": "Yeah. So you think you would feel really sad for her because she's trying so hard."
+            },
+            {
+                "from": "human",
+                "value": "So, I know it's so not okay to treat children like that."
+            },
+            {
+                "from": "gpt",
+                "value": "Right. It's so not okay to treat children like that. And would you think she was a failure?"
             }
         ]
     },
     {
-        "id": 183,
+        "id": 169,
         "conversations": [
             {
                 "from": "human",
@@ -5332,11 +6278,19 @@
             {
                 "from": "gpt",
                 "value": "You wouldn't think she was a failure. So?"
+            },
+            {
+                "from": "human",
+                "value": "I just think that Mum, wasn't be very good, a very good parent."
+            },
+            {
+                "from": "gpt",
+                "value": "So here Mum wasn't a very good parent. So are you able to think that about yourself?"
             }
         ]
     },
     {
-        "id": 184,
+        "id": 170,
         "conversations": [
             {
                 "from": "human",
@@ -5361,11 +6315,19 @@
             {
                 "from": "gpt",
                 "value": "It's hard isn't it?"
+            },
+            {
+                "from": "human",
+                "value": "Mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "It's hard. Maybe just a little chink opening a little bit where you might be able to kind of allow the possibility that maybe you're not a failure, you're not useless. Have you dealt with the things that you kind of learnt because of Mum wasn't a very good parent."
             }
         ]
     },
     {
-        "id": 185,
+        "id": 171,
         "conversations": [
             {
                 "from": "human",
@@ -5390,11 +6352,19 @@
             {
                 "from": "gpt",
                 "value": "I know that, that's not enough to stop you believing it because you've been believing it for a long time."
+            },
+            {
+                "from": "human",
+                "value": "And also like my life, I look at my life now."
+            },
+            {
+                "from": "gpt",
+                "value": "Sure."
             }
         ]
     },
     {
-        "id": 186,
+        "id": 172,
         "conversations": [
             {
                 "from": "human",
@@ -5419,11 +6389,19 @@
             {
                 "from": "gpt",
                 "value": "And when you, when you do believe you're useless now in your life, is that still kind of the same sense that Mum said to you."
+            },
+            {
+                "from": "human",
+                "value": "Hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "How do you feel?"
             }
         ]
     },
     {
-        "id": 187,
+        "id": 173,
         "conversations": [
             {
                 "from": "human",
@@ -5448,11 +6426,19 @@
             {
                 "from": "gpt",
                 "value": "It's a burning like when you feel useless?"
+            },
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay."
             }
         ]
     },
     {
-        "id": 188,
+        "id": 174,
         "conversations": [
             {
                 "from": "human",
@@ -5477,19 +6463,6 @@
             {
                 "from": "gpt",
                 "value": "Can you, are you able to stay with that kind of burning feeling that you feel for a moment? And you can, you're feeling it now. Aren't you?"
-            }
-        ]
-    },
-    {
-        "id": 189,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "And so, I just wanna, I just wanna get away."
-            },
-            {
-                "from": "gpt",
-                "value": "Can you, are you able to stay with that kind of burning feeling that you feel for a moment? And you can, you're feeling it now. Aren't you?"
             },
             {
                 "from": "human",
@@ -5498,20 +6471,20 @@
             {
                 "from": "gpt",
                 "value": "I can see you rubbing your chest there. Just stay with with, just, just notice it. Notice if it just stays there or it changes in intensity a little bit. No. See if it comes and goes a little bit. Just breathe into it a little bit. Now, you're going there. You still managing to stay with it. Julia? Can you hear me? Julia?"
-            },
+            }
+        ]
+    },
+    {
+        "id": 175,
+        "conversations": [
             {
                 "from": "human",
                 "value": "Mmm."
             },
             {
                 "from": "gpt",
-                "value": "Yeah. Are you still there with me? Or are you dissociating? Are you going away a little bit?"
-            }
-        ]
-    },
-    {
-        "id": 190,
-        "conversations": [
+                "value": "I can see you rubbing your chest there. Just stay with with, just, just notice it. Notice if it just stays there or it changes in intensity a little bit. No. See if it comes and goes a little bit. Just breathe into it a little bit. Now, you're going there. You still managing to stay with it. Julia? Can you hear me? Julia?"
+            },
             {
                 "from": "human",
                 "value": "Mmm."
@@ -5539,7 +6512,7 @@
         ]
     },
     {
-        "id": 191,
+        "id": 176,
         "conversations": [
             {
                 "from": "human",
@@ -5547,11 +6520,7 @@
             },
             {
                 "from": "gpt",
-                "value": "Yeah. Okay. That's great. And now, what about doing just a few deep breathes. That's it, that's great."
-            },
-            {
-                "from": "gpt",
-                "value": "That's lovely, okay. That's great. So that, are okay to talk a little bit more about that feeling now?"
+                "value": "Yeah. Okay. That's great. And now, what about doing just a few deep breathes. That's it, that's great. That's lovely, okay. That's great. So that, are okay to talk a little bit more about that feeling now?"
             },
             {
                 "from": "human",
@@ -5564,11 +6533,23 @@
             {
                 "from": "human",
                 "value": "Um. Well, I sometimes have this like, um, it's like this little voice."
+            },
+            {
+                "from": "gpt",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "human",
+                "value": "Sort of over my shoulder that, you know, it's sort of bit like, you know, it says all the sort of things that."
+            },
+            {
+                "from": "gpt",
+                "value": "That Mum said."
             }
         ]
     },
     {
-        "id": 192,
+        "id": 177,
         "conversations": [
             {
                 "from": "human",
@@ -5593,11 +6574,19 @@
             {
                 "from": "gpt",
                 "value": "Okay. And you get that."
+            },
+            {
+                "from": "human",
+                "value": "And I feel really."
+            },
+            {
+                "from": "gpt",
+                "value": "Burning. I wonder if that's shame? I wonder if that's a feeling of shame? Where you feel really bad about yourself and kind of burning and. What do you?"
             }
         ]
     },
     {
-        "id": 193,
+        "id": 178,
         "conversations": [
             {
                 "from": "human",
@@ -5622,11 +6611,19 @@
             {
                 "from": "gpt",
                 "value": "You feel bad about yourself. Excuse me."
+            },
+            {
+                "from": "human",
+                "value": "And I feel like, you know, it's like shame. Like, like embarrass, like being embarrassed."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah. Like feeling embarrassed."
             }
         ]
     },
     {
-        "id": 194,
+        "id": 179,
         "conversations": [
             {
                 "from": "human",
@@ -5651,11 +6648,19 @@
             {
                 "from": "gpt",
                 "value": "Like wanting to hide away."
+            },
+            {
+                "from": "human",
+                "value": "Yeah. or just to get away from it all."
+            },
+            {
+                "from": "gpt",
+                "value": "Get away from it all."
             }
         ]
     },
     {
-        "id": 195,
+        "id": 180,
         "conversations": [
             {
                 "from": "human",
@@ -5680,11 +6685,19 @@
             {
                 "from": "gpt",
                 "value": "Okay."
+            },
+            {
+                "from": "human",
+                "value": "So there's times when I feel like that."
+            },
+            {
+                "from": "gpt",
+                "value": "So, and the name for that feeling. What you're describing is shame. So there's a name for a feeling."
             }
         ]
     },
     {
-        "id": 196,
+        "id": 181,
         "conversations": [
             {
                 "from": "human",
@@ -5709,11 +6722,19 @@
             {
                 "from": "gpt",
                 "value": "For you. And it's a very hard feeling to feel isn't it?"
+            },
+            {
+                "from": "human",
+                "value": "Mmm, mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "It's really, really, really hard to stay with. You did really well staying with it for as long as you did then. And then did you notice that we did a little bit of grounding and then some breathing."
             }
         ]
     },
     {
-        "id": 197,
+        "id": 182,
         "conversations": [
             {
                 "from": "human",
@@ -5738,11 +6759,19 @@
             {
                 "from": "gpt",
                 "value": "And how you feeling now?"
+            },
+            {
+                "from": "human",
+                "value": "Um, I feel pretty spacey."
+            },
+            {
+                "from": "gpt",
+                "value": "A little bit spacey still. Okay. Do, I mean were, we've had quite a lot of practice at grounding and breathing. Now do you know what it is that you need to do?"
             }
         ]
     },
     {
-        "id": 198,
+        "id": 183,
         "conversations": [
             {
                 "from": "human",
@@ -5767,11 +6796,19 @@
             {
                 "from": "gpt",
                 "value": "Do you need to just ground yourself in the chair there."
+            },
+            {
+                "from": "human",
+                "value": "Can I, yeah. Yeah. Try to."
+            },
+            {
+                "from": "gpt",
+                "value": "Sitting in the chair there, sitting up and feeling your heels into the ground."
             }
         ]
     },
     {
-        "id": 199,
+        "id": 184,
         "conversations": [
             {
                 "from": "human",
@@ -5796,11 +6833,19 @@
             {
                 "from": "gpt",
                 "value": "Rubbing the arms of the chair, just really kind of gripping on to them and feeling. Yeah."
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay. That's fantastic. All right, so, now that you're kind of feeling back in the room."
             }
         ]
     },
     {
-        "id": 200,
+        "id": 185,
         "conversations": [
             {
                 "from": "human",
@@ -5825,11 +6870,19 @@
             {
                 "from": "gpt",
                 "value": "I'd like to do, um. You okay now?"
+            },
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Yeah. Back, still feeling spacey or are you feeling a bit?"
             }
         ]
     },
     {
-        "id": 201,
+        "id": 186,
         "conversations": [
             {
                 "from": "human",
@@ -5854,11 +6907,19 @@
             {
                 "from": "gpt",
                 "value": "Tired."
+            },
+            {
+                "from": "human",
+                "value": "Yeah a bit tired."
+            },
+            {
+                "from": "gpt",
+                "value": "Okay. One thing that I'd like to do um, and it may not be now if you're feeling a bit tired. But I'd like to do it either this session or next session. It's a little bit more work around that, that critical voice that you've got. That, that voice on your shoulder."
             }
         ]
     },
     {
-        "id": 202,
+        "id": 187,
         "conversations": [
             {
                 "from": "human",
@@ -5883,11 +6944,19 @@
             {
                 "from": "gpt",
                 "value": "When do you want to do it? Do you want to do it today or a bit too tired?"
+            },
+            {
+                "from": "human",
+                "value": "To tired."
+            },
+            {
+                "from": "gpt",
+                "value": "You're a bit too tired today."
             }
         ]
     },
     {
-        "id": 203,
+        "id": 188,
         "conversations": [
             {
                 "from": "human",
@@ -5911,24 +6980,7 @@
             },
             {
                 "from": "gpt",
-                "value": "So maybe if we do it next session."
-            }
-        ]
-    },
-    {
-        "id": 204,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "Yeah."
-            },
-            {
-                "from": "gpt",
-                "value": "So maybe if we do it next session."
-            },
-            {
-                "from": "gpt",
-                "value": "So, Julia, um, you know, we've been talking about um, those really critical, that critical voice you've got."
+                "value": "So maybe if we do it next session. So, Julia, um, you know, we've been talking about um, those really critical, that critical voice you've got."
             },
             {
                 "from": "human",
@@ -5937,15 +6989,11 @@
             {
                 "from": "gpt",
                 "value": "That critical voice which just comes from Mum."
-            },
-            {
-                "from": "human",
-                "value": "Mmm."
             }
         ]
     },
     {
-        "id": 205,
+        "id": 189,
         "conversations": [
             {
                 "from": "human",
@@ -5970,11 +7018,19 @@
             {
                 "from": "gpt",
                 "value": "It also, and then when you feel all that shame and you want to hide away. You know, you said that, you know, you do hide away. You don't go out, you use."
+            },
+            {
+                "from": "human",
+                "value": "Turn off my phone."
+            },
+            {
+                "from": "gpt",
+                "value": "Turn off your phone."
             }
         ]
     },
     {
-        "id": 206,
+        "id": 190,
         "conversations": [
             {
                 "from": "human",
@@ -5999,19 +7055,6 @@
             {
                 "from": "gpt",
                 "value": "And um, that it also wants to make you use. So in fact that critical voice isn't doing you any favors is it? It's just kind of making things worse. Yeah?"
-            }
-        ]
-    },
-    {
-        "id": 207,
-        "conversations": [
-            {
-                "from": "human",
-                "value": "Mmm."
-            },
-            {
-                "from": "gpt",
-                "value": "And um, that it also wants to make you use. So in fact that critical voice isn't doing you any favors is it? It's just kind of making things worse. Yeah?"
             },
             {
                 "from": "human",
@@ -6020,20 +7063,20 @@
             {
                 "from": "gpt",
                 "value": "So we're going to need to do a figurative work on it. Because as we also looked at last week. You allowed that, you know, well actually, you know, Mum used to told me I was useless. Maybe I wasn't useless. And I know you still believe that you are and you know, you do things now with the using, which then makes you feel useless. But then when you, when you say to yourself you're useless then you feel really bad, then you use more. Now, there's something else we can do with that as well. And um, it's got a funny name. It's called cognitive diffusion."
-            },
-            {
-                "from": "human",
-                "value": "Mm-hmm."
-            },
-            {
-                "from": "gpt",
-                "value": "So, you know, how when we were talking last week. We were actually challenging you're critical core thoughts. You know, we were saying well, you know, look actually, you know, in fact, you have done okay. And you're critical thoughts aren't quite right. Cognitive diffusion is another way to deal with them."
             }
         ]
     },
     {
-        "id": 208,
+        "id": 191,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mmm, mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "So we're going to need to do a figurative work on it. Because as we also looked at last week. You allowed that, you know, well actually, you know, Mum used to told me I was useless. Maybe I wasn't useless. And I know you still believe that you are and you know, you do things now with the using, which then makes you feel useless. But then when you, when you say to yourself you're useless then you feel really bad, then you use more. Now, there's something else we can do with that as well. And um, it's got a funny name. It's called cognitive diffusion."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -6061,8 +7104,16 @@
         ]
     },
     {
-        "id": 209,
+        "id": 192,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "So that instead of challenging them."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -6090,8 +7141,16 @@
         ]
     },
     {
-        "id": 210,
+        "id": 193,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "And you just acknowledge them, notice them in some way, but don't get caught up in them. So it's a very different way going about it."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -6119,8 +7178,16 @@
         ]
     },
     {
-        "id": 211,
+        "id": 194,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Absolutely since you were a little girl."
+            },
             {
                 "from": "human",
                 "value": "Mmm."
@@ -6148,8 +7215,16 @@
         ]
     },
     {
-        "id": 212,
+        "id": 195,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "And so now, when you find yourself saying, saying to yourself, ah you're useless, you're a failure. You could do, you could notice that."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -6177,8 +7252,16 @@
         ]
     },
     {
-        "id": 213,
+        "id": 196,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "You're saying, oh, I'm thinking. I'll say that I'm thinking that I'm useless and a failure."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm, mm-hmm."
@@ -6206,8 +7289,16 @@
         ]
     },
     {
-        "id": 214,
+        "id": 197,
         "conversations": [
+            {
+                "from": "human",
+                "value": "No."
+            },
+            {
+                "from": "gpt",
+                "value": "That wouldn't work for you?"
+            },
             {
                 "from": "human",
                 "value": "No."
@@ -6235,8 +7326,16 @@
         ]
     },
     {
-        "id": 215,
+        "id": 198,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-mmm."
+            },
+            {
+                "from": "gpt",
+                "value": "So it's about noticing when you're having the thoughts. That's the first thing. And because you're noticing, the part of you that's noticing is not the thought."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -6264,8 +7363,16 @@
         ]
     },
     {
-        "id": 216,
+        "id": 199,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Um, a bit yeah."
+            },
+            {
+                "from": "gpt",
+                "value": "So, from what I."
+            },
             {
                 "from": "human",
                 "value": "Yeah."
@@ -6293,8 +7400,16 @@
         ]
     },
     {
-        "id": 217,
+        "id": 200,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "What are some of the things that you might. What, what might you do with that?"
+            },
             {
                 "from": "human",
                 "value": "Um, I might ah, can say that um, like you said, like that's just um, um, something that I've, it's just become how it is all the time now for me. Because that's what I said for so long and maybe, maybe you know, I need to maybe you know, just um, maybe look at other things to say instead of."
@@ -6322,8 +7437,16 @@
         ]
     },
     {
-        "id": 218,
+        "id": 201,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "That's not always so easy though. Because you've been doing it for so, so, you've been doing it for so long."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm."
@@ -6351,8 +7474,16 @@
         ]
     },
     {
-        "id": 219,
+        "id": 202,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "So I guess it's more about it, it, I mean you can certainly look at other things to say."
+            },
             {
                 "from": "human",
                 "value": "Mmm, mm-hmm."
@@ -6380,8 +7511,16 @@
         ]
     },
     {
-        "id": 220,
+        "id": 203,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Okay."
+            },
+            {
+                "from": "gpt",
+                "value": "Ah, another thing, some people just say, ah there goes that thought about being useless again. Or they might go, ah thank Mum."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm, mm-hmm."
@@ -6409,8 +7548,16 @@
         ]
     },
     {
-        "id": 221,
+        "id": 204,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm, mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "Just saying little things like that. Do you see how that puts a little bit of distance between."
+            },
             {
                 "from": "human",
                 "value": "Mm-hmm, mm-hmm."
@@ -6438,8 +7585,16 @@
         ]
     },
     {
-        "id": 222,
+        "id": 205,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Yep."
+            },
+            {
+                "from": "gpt",
+                "value": "So you might."
+            },
             {
                 "from": "human",
                 "value": "Maybe I could just try in a week and that's when we'll know."
@@ -6467,8 +7622,16 @@
         ]
     },
     {
-        "id": 223,
+        "id": 206,
         "conversations": [
+            {
+                "from": "human",
+                "value": "I feel like, you know, I'm, yeah, I've got, I'm, I'm thinking that. Maybe just could see."
+            },
+            {
+                "from": "gpt",
+                "value": "Strive."
+            },
             {
                 "from": "human",
                 "value": "Yeah."
@@ -6496,8 +7659,16 @@
         ]
     },
     {
-        "id": 224,
+        "id": 207,
         "conversations": [
+            {
+                "from": "human",
+                "value": "Mm-hmm."
+            },
+            {
+                "from": "gpt",
+                "value": "So, so you said you might like to try, which ones do you think you might like to try?"
+            },
             {
                 "from": "human",
                 "value": "Um, mmm."
@@ -6525,8 +7696,16 @@
         ]
     },
     {
-        "id": 225,
+        "id": 208,
         "conversations": [
+            {
+                "from": "human",
+                "value": "I'd be saying things like, mmm, this is just a bad habit."
+            },
+            {
+                "from": "gpt",
+                "value": "This is just a bad habit. Yeah."
+            },
             {
                 "from": "human",
                 "value": "Yeah. Um, and maybe something like um, as I said, saying something into it like, just because um, I have, I haven't done a lot with my life doesn't mean that I'm useless."
